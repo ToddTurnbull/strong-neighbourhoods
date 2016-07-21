@@ -30,7 +30,9 @@ Last updated September 11, 2013.
     * In the labour force: Employed, **Unemployed**
 * Total income in 2010 of population aged 15 years and over
     * Median income
+
     ####OR
+
 * After-tax income in 2010 of population 15 years and over
     * Median after-tax income 
 * Toal number of occupied private dwellings by condition of dwelling
@@ -39,7 +41,6 @@ Last updated September 11, 2013.
     * Not suitable
 * Total number of owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio
     * Spending 30% or more of household total income on shelter costs
-* 
 
 ### Other categories of potential interest
 * Total population in private households by visible minority
