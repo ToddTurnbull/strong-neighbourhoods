@@ -1,6 +1,6 @@
 # Census Profile, 2011
 
-Population, age, household types, housing types and languages grouped by Planning District.
+Population, age, household types, housing types and languages grouped by custom geographies (Waterloo Region Planning Districts).
 
 Retrieved July 13, 2016
 
