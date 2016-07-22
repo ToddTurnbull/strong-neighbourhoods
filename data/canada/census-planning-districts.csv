@@ -1,0 +1,103 @@
+index,code,Name,Municipality
+1,C10,Blair,Cambridge
+2,C1014,Silver Heights/Blackbridge,Cambridge
+3,C103,Riverside,Cambridge
+4,C109,Centennial/River Flats,Cambridge
+5,C10N,Shades Mills North,Cambridge
+6,C10S,Shades Mills South,Cambridge
+7,C11,Preston Heights,Cambridge
+8,C116,Riverview,Cambridge
+9,C12,Central Park,Cambridge
+10,C123,North Cambridge,Cambridge
+11,C13,Lang's Farm,Cambridge
+12,C146,Industrial Park,Cambridge
+13,C17,Elgin Park,Cambridge
+14,C18,Westview,Cambridge
+15,C19,Victoria Highlands,Cambridge
+16,C20,City Core,Cambridge
+17,C21,Lincoln-Oaks,Cambridge
+18,C216,Northview,Cambridge
+19,C2223,Eastview/Branchton Park,Cambridge
+20,C24,Glenview,Cambridge
+21,C25,Southview,Cambridge
+22,C26,St Andrews Hills,Cambridge
+23,C27,Southwood,Cambridge
+24,C57,Hillcrest/Cooper,Cambridge
+25,C6,Downtown Hespeler,Cambridge
+26,C8,Cambrian Hills,Cambridge
+27,eRurN,Wellesley Rural North,Wellesley
+28,eRurS,Wellesley Rural South,Wellesley
+29,eWell,Wellesley Village,Wellesley
+30,iBade,Baden,Wilmot
+31,iNDun,New Dundee/Mannheim,Wilmot
+32,iNHam,New Hamburg,Wilmot
+33,iNort,North Wilmot,Wilmot
+34,K1,City Commercial Core,Kitchener
+35,K10,Mt Hope Huron Park,Kitchener
+36,K11,Fairfield,Kitchener
+37,K12,Northward,Kitchener
+38,K13,Central Frederick,Kitchener
+39,K14,Auditorium,Kitchener
+40,K15,Eastwood,Kitchener
+41,K16,Rockway,Kitchener
+42,K17,Southdale,Kitchener
+43,K18,Meinzinger Park-Lakeside,Kitchener
+44,K19,Forest Hill,Kitchener
+45,K2,Civic Centre,Kitchener
+46,K20,Victoria Hills,Kitchener
+47,K21,Westmount,Kitchener
+48,K22,Rosemount,Kitchener
+49,K23,Heritage Park,Kitchener
+50,K24,Stanley Park,Kitchener
+51,K25,Vanier,Kitchener
+52,K26,Alpine,Kitchener
+53,K27,Laurentian Hills,Kitchener
+54,K28,Laurentian West,Kitchener
+55,K29,Forest Heights,Kitchener
+56,K3,King East,Kitchener
+57,K30,Highland West,Kitchener
+58,K31,Bridgeport East,Kitchener
+59,K3247,Victoria North,Kitchener
+60,K33,Grand River North,Kitchener
+61,K34,Idlewood,Kitchener
+62,K35,Centreville Chicopee,Kitchener
+63,K3650,Hidden Valley/Pioneer Tower,Kitchener
+64,K38,Country Hills,Kitchener
+65,K39,Country Hills West,Kitchener
+66,K4,Cedar Hill,Kitchener
+67,K4452,Southwest,Kitchener
+68,K48,Bridgeport North,Kitchener
+69,K49,Grand River South,Kitchener
+70,K5,Mill Courtland Woodside Park,Kitchener
+71,K6,St Mary's Hospital,Kitchener
+72,K7,Victoria Park,Kitchener
+73,K8,Cherry Hill,Kitchener
+74,K9,K-W Hospital,Kitchener
+75,KDS,Doon South,Kitchener
+76,KPP,Pioneer Park ,Kitchener
+77,nAyr,Ayr,North Dumfries
+78,nBev,North Dumfries Beverly,North Dumfries
+79,nRur,North Dumfries Rural,North Dumfries
+80,oElm,Elmira,Woolwich
+81,oRurE,Woolwich Rural East,Woolwich
+82,oRurN,Woolwich Rural North,Woolwich
+83,oStJ,St Jacobs,Woolwich
+84,W10,Lakeshore North/Conservation,Waterloo
+85,W14,Columbia,Waterloo
+86,W15,Willowdale,Waterloo
+87,W16,Dearborn,Waterloo
+88,W17,Lincoln,Waterloo
+89,W19,Lexington,Waterloo
+90,W2,Central,Waterloo
+91,W20,Eastbridge,Waterloo
+92,W21,Rural East/Country Squire,Waterloo
+93,W28,Laurelwood,Waterloo
+94,W3,Westmount,Waterloo
+95,W4,Westvale,Waterloo
+96,W5,Beechwood,Waterloo
+97,W6,Beechwood West,Waterloo
+98,W7,University,Waterloo
+99,W8,Lakeshore,Waterloo
+100,WCLH,Clair Hills,Waterloo
+101,WCOH,Columbia Hills,Waterloo
+102,WCON,Conservation,Waterloo
