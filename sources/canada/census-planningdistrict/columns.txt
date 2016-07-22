@@ -1,0 +1,1247 @@
+  1: line_number
+  2: Geography
+  3: Total population by age groups
+  4:   0 to 4 years 
+  5:   5 to 9 years 
+  6:   10 to 14 years 
+  7:   15 to 19 years 
+  8:     15 years 
+  9:     16 years 
+ 10:     17 years 
+ 11:     18 years 
+ 12:     19 years 
+ 13:   20 to 24 years 
+ 14:   25 to 29 years 
+ 15:   30 to 34 years 
+ 16:   35 to 39 years 
+ 17:   40 to 44 years 
+ 18:   45 to 49 years 
+ 19:   50 to 54 years 
+ 20:   55 to 59 years 
+ 21:   60 to 64 years 
+ 22:   65 to 69 years 
+ 23:   70 to 74 years 
+ 24:   75 to 79 years 
+ 25:   80 to 84 years 
+ 26:   85 years and over 
+ 27: Median age of the population
+ 28: % of the population aged 15 and over
+ 29:   Males, total
+ 30:     0 to 4 years 
+ 31:     5 to 9 years 
+ 32:     10 to 14 years 
+ 33:     15 to 19 years 
+ 34:       15 years 
+ 35:       16 years 
+ 36:       17 years 
+ 37:       18 years 
+ 38:       19 years 
+ 39:     20 to 24 years 
+ 40:     25 to 29 years 
+ 41:     30 to 34 years 
+ 42:     35 to 39 years 
+ 43:     40 to 44 years 
+ 44:     45 to 49 years 
+ 45:     50 to 54 years 
+ 46:     55 to 59 years 
+ 47:     60 to 64 years 
+ 48:     65 to 69 years 
+ 49:     70 to 74 years 
+ 50:     75 to 79 years 
+ 51:     80 to 84 years 
+ 52:     85 years and over 
+ 53:   Median age of the male population
+ 54:   % of the male population aged 15 and over
+ 55:   Females, total
+ 56:     0 to 4 years 
+ 57:     5 to 9 years 
+ 58:     10 to 14 years 
+ 59:     15 to 19 years 
+ 60:       15 years 
+ 61:       16 years 
+ 62:       17 years 
+ 63:       18 years 
+ 64:       19 years 
+ 65:     20 to 24 years 
+ 66:     25 to 29 years 
+ 67:     30 to 34 years 
+ 68:     35 to 39 years 
+ 69:     40 to 44 years 
+ 70:     45 to 49 years 
+ 71:     50 to 54 years 
+ 72:     55 to 59 years 
+ 73:     60 to 64 years 
+ 74:     65 to 69 years 
+ 75:     70 to 74 years 
+ 76:     75 to 79 years 
+ 77:     80 to 84 years 
+ 78:     85 years and over 
+ 79:   Median age of the female population
+ 80:   % of the female population aged 15 and over
+ 81: Total population 15 years and over by marital status
+ 82:   Married or living with a common-law partner
+ 83:     Married (and not separated) 
+ 84:     Living common law 
+ 85:   Not living with spouse or common-law partner
+ 86:     Single (never legally married) 
+ 87:     Separated , but still legally married
+ 88:     Divorced 
+ 89:     Widowed 
+ 90:   Males 15 years and over by marital status
+ 91:     Married or living with a common-law partner 
+ 92:       Married (and not separated)
+ 93:       Living common law
+ 94:     Not living with spouse or common-law partner
+ 95:       Single (never legally married)
+ 96:       Separated , but still legally married
+ 97:       Divorced
+ 98:       Widowed
+ 99:   Females 15 years and over by marital status
+100:     Married or living with a common-law partner
+101:       Married (and not separated)
+102:       Living common law
+103:     Not living with spouse or common-law partner
+104:       Single (never legally married)
+105:       Separated , but still legally married
+106:       Divorced
+107:       Widowed
+108: Total number of persons in private households 
+109:   Number of persons not in census families 
+110:     Living with relatives 
+111:     Living with non-relatives only
+112:     Living alone 
+113:   Number of census family persons 
+114:   Total number of males in private households
+115:     Number of males not in census families
+116:       Living with relatives
+117:       Living with non-relatives only
+118:       Living alone
+119:     Number of males in census families
+120:   Total number of females in private households
+121:       Number of females not in census families
+122:         Living with relatives
+123:         Living with non-relatives only
+124:         Living alone
+125:       Number of females in census families
+126: Total number of persons aged 65 years and over in private households
+127:   Number of persons not in census families aged 65 years and over
+128:     Living with relatives
+129:     Living with non-relatives only
+130:     Living alone
+131:   Number of census family persons aged 65 years and over
+132:   Total number of males aged 65 years and over in private households
+133:     Number of males not in census families aged 65 years and over
+134:       Living with relatives
+135:       Living with non-relatives only
+136:       Living alone
+137:     Number of census family males aged 65 years and over
+138:   Total number of females aged 65 years and over in private households
+139:     Number of females not in census families aged 65 years and over
+140:       Living with relatives
+141:       Living with non-relatives only
+142:       Living alone
+143:     Number of census family females aged 65 years and over
+144: Total number of census families in private households by family size
+145:   Size of census family: 2 persons
+146:   Size of census family: 3 persons
+147:   Size of census family: 4 persons
+148:   Size of census family: 5 or more persons
+149: Total number of census families in private households by family structure and number of children
+150:   Total couple families by family structure and number of children
+151:     Married couples
+152:       Without children at home
+153:       With children at home
+154:         1 child
+155:         2 children
+156:         3 or more children
+157:     Common-law couples
+158:       Without children at home
+159:       With children at home
+160:         1 child
+161:         2 children
+162:         3 or more children
+163:   Total lone-parent families by sex of parent and number of children
+164:     Female parent
+165:       1 child
+166:       2 children
+167:       3 or more children
+168:     Male parent
+169:       1 child
+170:       2 children
+171:       3 or more children
+172: Total children in census families in private households
+173:   Under six years of age
+174:   6 to 14 years
+175:   15 to 17 years
+176:   18 to 24 years
+177:   25 years and over
+178: Average number of children at home per census family
+179: Average number of persons per census family
+180: Total number of private households by household type
+181:   Census family households
+182:     One-family only households
+183:       Couple family households
+184:         Without children
+185:         With children
+186:       Lone-parent family households
+187:     Other family households
+188:       One-family households with additional persons not in a census family
+189:         Couple family households with additional persons not in a census family
+190:           Without children
+191:           With children
+192:         Lone-parent family households  with additional persons not in a census family
+193:       Two-or-more-family households
+194:   Non-census family households
+195:     One-person households
+196:     Two-or-more-person households
+197: Total number of private households by household size
+198:   1 person
+199:   2 persons
+200:   3 persons
+201:   4 persons
+202:   5 persons
+203:   6 or more persons
+204: Total number of persons in private households
+205: Average number of persons in private households
+206: Total number of occupied private dwellings by structural type of dwelling
+207:   Single-detached house
+208:   Apartment, building that has five or more storeys
+209:   Movable dwelling
+210:   Other dwelling
+211:     Semi-detached house
+212:     Row house
+213:     Apartment, duplex
+214:     Apartment, building that has fewer than five storeys
+215:     Other single-attached house
+216: Detailed Mother Tongue - Total population excluding institutional residents
+217:     Single responses
+218:       English
+219:       French
+220:       Non-official languages
+221:         Selected Aboriginal languages
+222:           Atikamekw
+223:           Cree, n.o.s.
+224:           Dene
+225:           Innu/Montagnais
+226:           Inuktitut
+227:           Mi'kmaq
+228:           Ojibway
+229:           Oji-Cree
+230:           Stoney
+231:         Selected non-Aboriginal languages
+232:           African languages, n.i.e.
+233:           Afrikaans
+234:           Akan (Twi)
+235:           Albanian
+236:           Amharic
+237:           Arabic
+238:           Armenian
+239:           Bantu languages, n.i.e.
+240:           Bengali
+241:           Berber languages (Kabyle)
+242:           Bisayan languages
+243:           Bosnian
+244:           Bulgarian
+245:           Burmese
+246:           Cantonese
+247:           Chinese, n.o.s.
+248:           Creoles
+249:           Croatian
+250:           Czech
+251:           Danish
+252:           Dutch
+253:           Estonian
+254:           Finnish
+255:           Flemish
+256:           Fukien
+257:           German
+258:           Greek
+259:           Gujarati
+260:           Hakka
+261:           Hebrew
+262:           Hindi
+263:           Hungarian
+264:           Ilocano
+265:           Indo-Iranian languages, n.i.e.
+266:           Italian
+267:           Japanese
+268:           Khmer (Cambodian)
+269:           Korean
+270:           Kurdish
+271:           Lao
+272:           Latvian
+273:           Lingala
+274:           Lithuanian
+275:           Macedonian
+276:           Malay
+277:           Malayalam
+278:           Maltese
+279:           Mandarin
+280:           Marathi
+281:           Nepali
+282:           Niger-Congo languages, n.i.e.
+283:           Norwegian
+284:           Oromo
+285:           Panjabi (Punjabi)
+286:           Pashto
+287:           Persian (Farsi)
+288:           Polish
+289:           Portuguese
+290:           Romanian
+291:           Rundi (Kirundi)
+292:           Russian
+293:           Rwanda (Kinyarwanda)
+294:           Semitic languages, n.i.e.
+295:           Serbian
+296:           Serbo-Croatian
+297:           Shanghainese
+298:           Sign languages, n.i.e.
+299:           Sindhi
+300:           Sinhala (Sinhalese)
+301:           Sino-Tibetan languages, n.i.e.
+302:           Slavic languages, n.i.e.
+303:           Slovak
+304:           Slovenian
+305:           Somali
+306:           Spanish
+307:           Swahili
+308:           Swedish
+309:           Tagalog (Pilipino, Filipino)
+310:           Taiwanese
+311:           Tamil
+312:           Telugu
+313:           Thai
+314:           Tibetan languages
+315:           Tigrigna
+316:           Turkish
+317:           Ukrainian
+318:           Urdu
+319:           Vietnamese
+320:           Yiddish
+321:         Other languages
+322:     Multiple responses
+323:       English and French
+324:       English and non-official language
+325:       French and non-official language
+326:       English, French and non-official language
+327:   Detailed Mother Tongue - Males excluding institutional residents
+328:       Single responses
+329:         English
+330:         French
+331:         Non-official languages
+332:           Selected Aboriginal languages
+333:             Atikamekw
+334:             Cree, n.o.s.
+335:             Dene
+336:             Innu/Montagnais
+337:             Inuktitut
+338:             Mi'kmaq
+339:             Ojibway
+340:             Oji-Cree
+341:             Stoney
+342:           Selected non-Aboriginal languages
+343:             African languages, n.i.e.
+344:             Afrikaans
+345:             Akan (Twi)
+346:             Albanian
+347:             Amharic
+348:             Arabic
+349:             Armenian
+350:             Bantu languages, n.i.e.
+351:             Bengali
+352:             Berber languages (Kabyle)
+353:             Bisayan languages
+354:             Bosnian
+355:             Bulgarian
+356:             Burmese
+357:             Cantonese
+358:             Chinese, n.o.s.
+359:             Creoles
+360:             Croatian
+361:             Czech
+362:             Danish
+363:             Dutch
+364:             Estonian
+365:             Finnish
+366:             Flemish
+367:             Fukien
+368:             German
+369:             Greek
+370:             Gujarati
+371:             Hakka
+372:             Hebrew
+373:             Hindi
+374:             Hungarian
+375:             Ilocano
+376:             Indo-Iranian languages, n.i.e.
+377:             Italian
+378:             Japanese
+379:             Khmer (Cambodian)
+380:             Korean
+381:             Kurdish
+382:             Lao
+383:             Latvian
+384:             Lingala
+385:             Lithuanian
+386:             Macedonian
+387:             Malay
+388:             Malayalam
+389:             Maltese
+390:             Mandarin
+391:             Marathi
+392:             Nepali
+393:             Niger-Congo languages, n.i.e.
+394:             Norwegian
+395:             Oromo
+396:             Panjabi (Punjabi)
+397:             Pashto
+398:             Persian (Farsi)
+399:             Polish
+400:             Portuguese
+401:             Romanian
+402:             Rundi (Kirundi)
+403:             Russian
+404:             Rwanda (Kinyarwanda)
+405:             Semitic languages, n.i.e.
+406:             Serbian
+407:             Serbo-Croatian
+408:             Shanghainese
+409:             Sign languages, n.i.e.
+410:             Sindhi
+411:             Sinhala (Sinhalese)
+412:             Sino-Tibetan languages, n.i.e.
+413:             Slavic languages, n.i.e.
+414:             Slovak
+415:             Slovenian
+416:             Somali
+417:             Spanish
+418:             Swahili
+419:             Swedish
+420:             Tagalog (Pilipino, Filipino)
+421:             Taiwanese
+422:             Tamil
+423:             Telugu
+424:             Thai
+425:             Tibetan languages
+426:             Tigrigna
+427:             Turkish
+428:             Ukrainian
+429:             Urdu
+430:             Vietnamese
+431:             Yiddish
+432:           Other languages
+433:       Multiple responses
+434:         English and French
+435:         English and non-official language
+436:         French and non-official language
+437:         English, French and non-official language
+438:   Detailed Mother Tongue - Females excluding institutional residents
+439:       Single responses
+440:         English
+441:         French
+442:         Non-official languages
+443:           Selected Aboriginal languages
+444:             Atikamekw
+445:             Cree, n.o.s.
+446:             Dene
+447:             Innu/Montagnais
+448:             Inuktitut
+449:             Mi'kmaq
+450:             Ojibway
+451:             Oji-Cree
+452:             Stoney
+453:           Selected non-Aboriginal languages
+454:             African languages, n.i.e.
+455:             Afrikaans
+456:             Akan (Twi)
+457:             Albanian
+458:             Amharic
+459:             Arabic
+460:             Armenian
+461:             Bantu languages, n.i.e.
+462:             Bengali
+463:             Berber languages (Kabyle)
+464:             Bisayan languages
+465:             Bosnian
+466:             Bulgarian
+467:             Burmese
+468:             Cantonese
+469:             Chinese, n.o.s.
+470:             Creoles
+471:             Croatian
+472:             Czech
+473:             Danish
+474:             Dutch
+475:             Estonian
+476:             Finnish
+477:             Flemish
+478:             Fukien
+479:             German
+480:             Greek
+481:             Gujarati
+482:             Hakka
+483:             Hebrew
+484:             Hindi
+485:             Hungarian
+486:             Ilocano
+487:             Indo-Iranian languages, n.i.e.
+488:             Italian
+489:             Japanese
+490:             Khmer (Cambodian)
+491:             Korean
+492:             Kurdish
+493:             Lao
+494:             Latvian
+495:             Lingala
+496:             Lithuanian
+497:             Macedonian
+498:             Malay
+499:             Malayalam
+500:             Maltese
+501:             Mandarin
+502:             Marathi
+503:             Nepali
+504:             Niger-Congo languages, n.i.e.
+505:             Norwegian
+506:             Oromo
+507:             Panjabi (Punjabi)
+508:             Pashto
+509:             Persian (Farsi)
+510:             Polish
+511:             Portuguese
+512:             Romanian
+513:             Rundi (Kirundi)
+514:             Russian
+515:             Rwanda (Kinyarwanda)
+516:             Semitic languages, n.i.e.
+517:             Serbian
+518:             Serbo-Croatian
+519:             Shanghainese
+520:             Sign languages, n.i.e.
+521:             Sindhi
+522:             Sinhala (Sinhalese)
+523:             Sino-Tibetan languages, n.i.e.
+524:             Slavic languages, n.i.e.
+525:             Slovak
+526:             Slovenian
+527:             Somali
+528:             Spanish
+529:             Swahili
+530:             Swedish
+531:             Tagalog (Pilipino, Filipino)
+532:             Taiwanese
+533:             Tamil
+534:             Telugu
+535:             Thai
+536:             Tibetan languages
+537:             Tigrigna
+538:             Turkish
+539:             Ukrainian
+540:             Urdu
+541:             Vietnamese
+542:             Yiddish
+543:           Other languages
+544:       Multiple responses
+545:         English and French
+546:         English and non-official language
+547:         French and non-official language
+548:         English, French and non-official language
+549: Knowledge of official languages - Total population excluding institutional residents
+550:     English only
+551:     French only
+552:     English and French
+553:     Neither English nor French
+554:   Knowledge of official languages - Males excluding institutional residents
+555:       English only
+556:       French only
+557:       English and French
+558:       Neither English nor French
+559:   Knowledge of official languages - Females excluding institutional residents
+560:       English only
+561:       French only
+562:       English and French
+563:       Neither English nor French
+564: First official language spoken - Total population excluding institutional residents
+565:     English
+566:     French
+567:     English and French
+568:     Neither English nor French
+569:   First official language spoken - Males excluding institutional residents
+570:       English
+571:       French
+572:       English and French
+573:       Neither English nor French
+574:   First official language spoken - Females excluding institutional residents
+575:       English
+576:       French
+577:       English and French
+578:       Neither English nor French
+579: Detailed language spoken most often at home - Total population excluding institutional residents
+580:     Single responses
+581:       English
+582:       French
+583:       Non-official languages
+584:         Selected Aboriginal languages
+585:           Atikamekw
+586:           Cree, n.o.s.
+587:           Dene
+588:           Innu/Montagnais
+589:           Inuktitut
+590:           Mi'kmaq
+591:           Ojibway
+592:           Oji-Cree
+593:           Stoney
+594:         Selected non-Aboriginal languages
+595:           African languages, n.i.e.
+596:           Afrikaans
+597:           Akan (Twi)
+598:           Albanian
+599:           Amharic
+600:           Arabic
+601:           Armenian
+602:           Bantu languages, n.i.e.
+603:           Bengali
+604:           Berber languages (Kabyle)
+605:           Bisayan languages
+606:           Bosnian
+607:           Bulgarian
+608:           Burmese
+609:           Cantonese
+610:           Chinese, n.o.s.
+611:           Creoles
+612:           Croatian
+613:           Czech
+614:           Danish
+615:           Dutch
+616:           Estonian
+617:           Finnish
+618:           Flemish
+619:           Fukien
+620:           German
+621:           Greek
+622:           Gujarati
+623:           Hakka
+624:           Hebrew
+625:           Hindi
+626:           Hungarian
+627:           Ilocano
+628:           Indo-Iranian languages, n.i.e.
+629:           Italian
+630:           Japanese
+631:           Khmer (Cambodian)
+632:           Korean
+633:           Kurdish
+634:           Lao
+635:           Latvian
+636:           Lingala
+637:           Lithuanian
+638:           Macedonian
+639:           Malay
+640:           Malayalam
+641:           Maltese
+642:           Mandarin
+643:           Marathi
+644:           Nepali
+645:           Niger-Congo languages, n.i.e.
+646:           Norwegian
+647:           Oromo
+648:           Panjabi (Punjabi)
+649:           Pashto
+650:           Persian (Farsi)
+651:           Polish
+652:           Portuguese
+653:           Romanian
+654:           Rundi (Kirundi)
+655:           Russian
+656:           Rwanda (Kinyarwanda)
+657:           Semitic languages, n.i.e.
+658:           Serbian
+659:           Serbo-Croatian
+660:           Shanghainese
+661:           Sign languages, n.i.e.
+662:           Sindhi
+663:           Sinhala (Sinhalese)
+664:           Sino-Tibetan languages, n.i.e.
+665:           Slavic languages, n.i.e.
+666:           Slovak
+667:           Slovenian
+668:           Somali
+669:           Spanish
+670:           Swahili
+671:           Swedish
+672:           Tagalog (Pilipino, Filipino)
+673:           Taiwanese
+674:           Tamil
+675:           Telugu
+676:           Thai
+677:           Tibetan languages
+678:           Tigrigna
+679:           Turkish
+680:           Ukrainian
+681:           Urdu
+682:           Vietnamese
+683:           Yiddish
+684:         Other languages
+685:     Multiple responses
+686:       English and French
+687:       English and non-official language
+688:       French and non-official language
+689:       English, French and non-official language
+690:   Detailed language spoken most often at home - Males excluding institutional residents
+691:       Single responses
+692:         English
+693:         French
+694:         Non-official languages
+695:           Selected Aboriginal languages
+696:             Atikamekw
+697:             Cree, n.o.s.
+698:             Dene
+699:             Innu/Montagnais
+700:             Inuktitut
+701:             Mi'kmaq
+702:             Ojibway
+703:             Oji-Cree
+704:             Stoney
+705:           Selected non-Aboriginal languages
+706:             African languages, n.i.e.
+707:             Afrikaans
+708:             Akan (Twi)
+709:             Albanian
+710:             Amharic
+711:             Arabic
+712:             Armenian
+713:             Bantu languages, n.i.e.
+714:             Bengali
+715:             Berber languages (Kabyle)
+716:             Bisayan languages
+717:             Bosnian
+718:             Bulgarian
+719:             Burmese
+720:             Cantonese
+721:             Chinese, n.o.s.
+722:             Creoles
+723:             Croatian
+724:             Czech
+725:             Danish
+726:             Dutch
+727:             Estonian
+728:             Finnish
+729:             Flemish
+730:             Fukien
+731:             German
+732:             Greek
+733:             Gujarati
+734:             Hakka
+735:             Hebrew
+736:             Hindi
+737:             Hungarian
+738:             Ilocano
+739:             Indo-Iranian languages, n.i.e.
+740:             Italian
+741:             Japanese
+742:             Khmer (Cambodian)
+743:             Korean
+744:             Kurdish
+745:             Lao
+746:             Latvian
+747:             Lingala
+748:             Lithuanian
+749:             Macedonian
+750:             Malay
+751:             Malayalam
+752:             Maltese
+753:             Mandarin
+754:             Marathi
+755:             Nepali
+756:             Niger-Congo languages, n.i.e.
+757:             Norwegian
+758:             Oromo
+759:             Panjabi (Punjabi)
+760:             Pashto
+761:             Persian (Farsi)
+762:             Polish
+763:             Portuguese
+764:             Romanian
+765:             Rundi (Kirundi)
+766:             Russian
+767:             Rwanda (Kinyarwanda)
+768:             Semitic languages, n.i.e.
+769:             Serbian
+770:             Serbo-Croatian
+771:             Shanghainese
+772:             Sign languages, n.i.e.
+773:             Sindhi
+774:             Sinhala (Sinhalese)
+775:             Sino-Tibetan languages, n.i.e.
+776:             Slavic languages, n.i.e.
+777:             Slovak
+778:             Slovenian
+779:             Somali
+780:             Spanish
+781:             Swahili
+782:             Swedish
+783:             Tagalog (Pilipino, Filipino)
+784:             Taiwanese
+785:             Tamil
+786:             Telugu
+787:             Thai
+788:             Tibetan languages
+789:             Tigrigna
+790:             Turkish
+791:             Ukrainian
+792:             Urdu
+793:             Vietnamese
+794:             Yiddish
+795:           Other languages
+796:       Multiple responses
+797:         English and French
+798:         English and non-official language
+799:         French and non-official language
+800:         English, French and non-official language
+801:   Detailed language spoken most often at home - Females excluding institutional residents
+802:       Single responses
+803:         English
+804:         French
+805:         Non-official languages
+806:           Selected Aboriginal languages
+807:             Atikamekw
+808:             Cree, n.o.s.
+809:             Dene
+810:             Innu/Montagnais
+811:             Inuktitut
+812:             Mi'kmaq
+813:             Ojibway
+814:             Oji-Cree
+815:             Stoney
+816:           Selected non-Aboriginal languages
+817:             African languages, n.i.e.
+818:             Afrikaans
+819:             Akan (Twi)
+820:             Albanian
+821:             Amharic
+822:             Arabic
+823:             Armenian
+824:             Bantu languages, n.i.e.
+825:             Bengali
+826:             Berber languages (Kabyle)
+827:             Bisayan languages
+828:             Bosnian
+829:             Bulgarian
+830:             Burmese
+831:             Cantonese
+832:             Chinese, n.o.s.
+833:             Creoles
+834:             Croatian
+835:             Czech
+836:             Danish
+837:             Dutch
+838:             Estonian
+839:             Finnish
+840:             Flemish
+841:             Fukien
+842:             German
+843:             Greek
+844:             Gujarati
+845:             Hakka
+846:             Hebrew
+847:             Hindi
+848:             Hungarian
+849:             Ilocano
+850:             Indo-Iranian languages, n.i.e.
+851:             Italian
+852:             Japanese
+853:             Khmer (Cambodian)
+854:             Korean
+855:             Kurdish
+856:             Lao
+857:             Latvian
+858:             Lingala
+859:             Lithuanian
+860:             Macedonian
+861:             Malay
+862:             Malayalam
+863:             Maltese
+864:             Mandarin
+865:             Marathi
+866:             Nepali
+867:             Niger-Congo languages, n.i.e.
+868:             Norwegian
+869:             Oromo
+870:             Panjabi (Punjabi)
+871:             Pashto
+872:             Persian (Farsi)
+873:             Polish
+874:             Portuguese
+875:             Romanian
+876:             Rundi (Kirundi)
+877:             Russian
+878:             Rwanda (Kinyarwanda)
+879:             Semitic languages, n.i.e.
+880:             Serbian
+881:             Serbo-Croatian
+882:             Shanghainese
+883:             Sign languages, n.i.e.
+884:             Sindhi
+885:             Sinhala (Sinhalese)
+886:             Sino-Tibetan languages, n.i.e.
+887:             Slavic languages, n.i.e.
+888:             Slovak
+889:             Slovenian
+890:             Somali
+891:             Spanish
+892:             Swahili
+893:             Swedish
+894:             Tagalog (Pilipino, Filipino)
+895:             Taiwanese
+896:             Tamil
+897:             Telugu
+898:             Thai
+899:             Tibetan languages
+900:             Tigrigna
+901:             Turkish
+902:             Ukrainian
+903:             Urdu
+904:             Vietnamese
+905:             Yiddish
+906:           Other languages
+907:       Multiple responses
+908:         English and French
+909:         English and non-official language
+910:         French and non-official language
+911:         English, French and non-official language
+912: Detailed other language spoken regularly at home - Total population excluding institutional residents
+913:     None
+914:     Single responses
+915:       English
+916:       French
+917:       Non-official languages
+918:         Selected Aboriginal languages
+919:           Atikamekw
+920:           Cree, n.o.s.
+921:           Dene
+922:           Innu/Montagnais
+923:           Inuktitut
+924:           Mi'kmaq
+925:           Ojibway
+926:           Oji-Cree
+927:           Stoney
+928:         Selected non-Aboriginal languages
+929:           African languages, n.i.e.
+930:           Afrikaans
+931:           Akan (Twi)
+932:           Albanian
+933:           Amharic
+934:           Arabic
+935:           Armenian
+936:           Bantu languages, n.i.e.
+937:           Bengali
+938:           Berber languages (Kabyle)
+939:           Bisayan languages
+940:           Bosnian
+941:           Bulgarian
+942:           Burmese
+943:           Cantonese
+944:           Chinese, n.o.s.
+945:           Creoles
+946:           Croatian
+947:           Czech
+948:           Danish
+949:           Dutch
+950:           Estonian
+951:           Finnish
+952:           Flemish
+953:           Fukien
+954:           German
+955:           Greek
+956:           Gujarati
+957:           Hakka
+958:           Hebrew
+959:           Hindi
+960:           Hungarian
+961:           Ilocano
+962:           Indo-Iranian languages, n.i.e.
+963:           Italian
+964:           Japanese
+965:           Khmer (Cambodian)
+966:           Korean
+967:           Kurdish
+968:           Lao
+969:           Latvian
+970:           Lingala
+971:           Lithuanian
+972:           Macedonian
+973:           Malay
+974:           Malayalam
+975:           Maltese
+976:           Mandarin
+977:           Marathi
+978:           Nepali
+979:           Niger-Congo languages, n.i.e.
+980:           Norwegian
+981:           Oromo
+982:           Panjabi (Punjabi)
+983:           Pashto
+984:           Persian (Farsi)
+985:           Polish
+986:           Portuguese
+987:           Romanian
+988:           Rundi (Kirundi)
+989:           Russian
+990:           Rwanda (Kinyarwanda)
+991:           Semitic languages, n.i.e.
+992:           Serbian
+993:           Serbo-Croatian
+994:           Shanghainese
+995:           Sign languages, n.i.e.
+996:           Sindhi
+997:           Sinhala (Sinhalese)
+998:           Sino-Tibetan languages, n.i.e.
+999:           Slavic languages, n.i.e.
+1000:           Slovak
+1001:           Slovenian
+1002:           Somali
+1003:           Spanish
+1004:           Swahili
+1005:           Swedish
+1006:           Tagalog (Pilipino, Filipino)
+1007:           Taiwanese
+1008:           Tamil
+1009:           Telugu
+1010:           Thai
+1011:           Tibetan languages
+1012:           Tigrigna
+1013:           Turkish
+1014:           Ukrainian
+1015:           Urdu
+1016:           Vietnamese
+1017:           Yiddish
+1018:         Other languages
+1019:     Multiple responses
+1020:       English and French
+1021:       English and non-official language
+1022:       French and non-official language
+1023:       English, French and non-official language
+1024:   Detailed other language spoken regularly at home - Males excluding institutional residents
+1025:       None
+1026:       Single responses
+1027:         English
+1028:         French
+1029:         Non-official languages
+1030:           Selected Aboriginal languages
+1031:             Atikamekw
+1032:             Cree, n.o.s.
+1033:             Dene
+1034:             Innu/Montagnais
+1035:             Inuktitut
+1036:             Mi'kmaq
+1037:             Ojibway
+1038:             Oji-Cree
+1039:             Stoney
+1040:           Selected non-Aboriginal languages
+1041:             African languages, n.i.e.
+1042:             Afrikaans
+1043:             Akan (Twi)
+1044:             Albanian
+1045:             Amharic
+1046:             Arabic
+1047:             Armenian
+1048:             Bantu languages, n.i.e.
+1049:             Bengali
+1050:             Berber languages (Kabyle)
+1051:             Bisayan languages
+1052:             Bosnian
+1053:             Bulgarian
+1054:             Burmese
+1055:             Cantonese
+1056:             Chinese, n.o.s.
+1057:             Creoles
+1058:             Croatian
+1059:             Czech
+1060:             Danish
+1061:             Dutch
+1062:             Estonian
+1063:             Finnish
+1064:             Flemish
+1065:             Fukien
+1066:             German
+1067:             Greek
+1068:             Gujarati
+1069:             Hakka
+1070:             Hebrew
+1071:             Hindi
+1072:             Hungarian
+1073:             Ilocano
+1074:             Indo-Iranian languages, n.i.e.
+1075:             Italian
+1076:             Japanese
+1077:             Khmer (Cambodian)
+1078:             Korean
+1079:             Kurdish
+1080:             Lao
+1081:             Latvian
+1082:             Lingala
+1083:             Lithuanian
+1084:             Macedonian
+1085:             Malay
+1086:             Malayalam
+1087:             Maltese
+1088:             Mandarin
+1089:             Marathi
+1090:             Nepali
+1091:             Niger-Congo languages, n.i.e.
+1092:             Norwegian
+1093:             Oromo
+1094:             Panjabi (Punjabi)
+1095:             Pashto
+1096:             Persian (Farsi)
+1097:             Polish
+1098:             Portuguese
+1099:             Romanian
+1100:             Rundi (Kirundi)
+1101:             Russian
+1102:             Rwanda (Kinyarwanda)
+1103:             Semitic languages, n.i.e.
+1104:             Serbian
+1105:             Serbo-Croatian
+1106:             Shanghainese
+1107:             Sign languages, n.i.e.
+1108:             Sindhi
+1109:             Sinhala (Sinhalese)
+1110:             Sino-Tibetan languages, n.i.e.
+1111:             Slavic languages, n.i.e.
+1112:             Slovak
+1113:             Slovenian
+1114:             Somali
+1115:             Spanish
+1116:             Swahili
+1117:             Swedish
+1118:             Tagalog (Pilipino, Filipino)
+1119:             Taiwanese
+1120:             Tamil
+1121:             Telugu
+1122:             Thai
+1123:             Tibetan languages
+1124:             Tigrigna
+1125:             Turkish
+1126:             Ukrainian
+1127:             Urdu
+1128:             Vietnamese
+1129:             Yiddish
+1130:           Other languages
+1131:       Multiple responses
+1132:         English and French
+1133:         English and non-official language
+1134:         French and non-official language
+1135:         English, French and non-official language
+1136:   Detailed other language spoken regularly at home - Females excluding institutional residents
+1137:       None
+1138:       Single responses
+1139:         English
+1140:         French
+1141:         Non-official languages
+1142:           Selected Aboriginal languages
+1143:             Atikamekw
+1144:             Cree, n.o.s.
+1145:             Dene
+1146:             Innu/Montagnais
+1147:             Inuktitut
+1148:             Mi'kmaq
+1149:             Ojibway
+1150:             Oji-Cree
+1151:             Stoney
+1152:           Selected non-Aboriginal languages
+1153:             African languages, n.i.e.
+1154:             Afrikaans
+1155:             Akan (Twi)
+1156:             Albanian
+1157:             Amharic
+1158:             Arabic
+1159:             Armenian
+1160:             Bantu languages, n.i.e.
+1161:             Bengali
+1162:             Berber languages (Kabyle)
+1163:             Bisayan languages
+1164:             Bosnian
+1165:             Bulgarian
+1166:             Burmese
+1167:             Cantonese
+1168:             Chinese, n.o.s.
+1169:             Creoles
+1170:             Croatian
+1171:             Czech
+1172:             Danish
+1173:             Dutch
+1174:             Estonian
+1175:             Finnish
+1176:             Flemish
+1177:             Fukien
+1178:             German
+1179:             Greek
+1180:             Gujarati
+1181:             Hakka
+1182:             Hebrew
+1183:             Hindi
+1184:             Hungarian
+1185:             Ilocano
+1186:             Indo-Iranian languages, n.i.e.
+1187:             Italian
+1188:             Japanese
+1189:             Khmer (Cambodian)
+1190:             Korean
+1191:             Kurdish
+1192:             Lao
+1193:             Latvian
+1194:             Lingala
+1195:             Lithuanian
+1196:             Macedonian
+1197:             Malay
+1198:             Malayalam
+1199:             Maltese
+1200:             Mandarin
+1201:             Marathi
+1202:             Nepali
+1203:             Niger-Congo languages, n.i.e.
+1204:             Norwegian
+1205:             Oromo
+1206:             Panjabi (Punjabi)
+1207:             Pashto
+1208:             Persian (Farsi)
+1209:             Polish
+1210:             Portuguese
+1211:             Romanian
+1212:             Rundi (Kirundi)
+1213:             Russian
+1214:             Rwanda (Kinyarwanda)
+1215:             Semitic languages, n.i.e.
+1216:             Serbian
+1217:             Serbo-Croatian
+1218:             Shanghainese
+1219:             Sign languages, n.i.e.
+1220:             Sindhi
+1221:             Sinhala (Sinhalese)
+1222:             Sino-Tibetan languages, n.i.e.
+1223:             Slavic languages, n.i.e.
+1224:             Slovak
+1225:             Slovenian
+1226:             Somali
+1227:             Spanish
+1228:             Swahili
+1229:             Swedish
+1230:             Tagalog (Pilipino, Filipino)
+1231:             Taiwanese
+1232:             Tamil
+1233:             Telugu
+1234:             Thai
+1235:             Tibetan languages
+1236:             Tigrigna
+1237:             Turkish
+1238:             Ukrainian
+1239:             Urdu
+1240:             Vietnamese
+1241:             Yiddish
+1242:           Other languages
+1243:       Multiple responses
+1244:         English and French
+1245:         English and non-official language
+1246:         French and non-official language
+1247:         English, French and non-official language
