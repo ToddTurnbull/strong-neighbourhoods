@@ -1,0 +1,175 @@
+﻿X,Y,OBJECTID,NAME,TYPE,ADDRESS,URL,ARENA,BALL_DIAMOND,BASKETBALL_COURT,CRICKET_PITCH,GYMNASIUM,SPORT_FIELD_INDOOR,SPORT_FIELD_OUTDOOR,PARK_SPACE,PICNIC_AREA,PLAYGROUND,SPLASH_PAD,SWIMMING_POOL_INDOOR,SWIMMING_POOL_OUTDOOR,TENNIS_COURT,TRACK_INDOOR,TRACK_OUTDOOR
+-80.532010077973311,43.467150778690332,1,Waterloo Park,Park,50 Young St W,http://www.waterloo.ca/en/gettingactive/waterloopark.asp,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+-80.532624566756667,43.464095100264316,2,Waterloo Memorial Recreation Complex,Facility,101 Father David Bauer Dr,http://www.waterloo.ca/en/gettingactive/waterloomemorialrecreationcomplex.asp,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No
+-80.511051513884084,43.474047757314509,3,Moses Springer Community Centre,Facility,150 Lincoln Rd,http://www.waterloo.ca/en/gettingactive/mosesspringercommunitycentre.asp,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No
+-80.493107312397953,43.48578935605039,4,Manulife Financial Soccer and Sports Centre,Facility,185 Bridge St,http://www.waterloo.ca/en/gettingactive/bechtelpark.asp,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No
+-80.502217915219191,43.519418121833098,5,RIM Park Manulife Financial Sportsplex,Facility,2001 University Ave E,http://www.waterloo.ca/en/gettingactive/rimpark.asp,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.544659937614838,43.488902441571774,6,Albert McCormick Community Centre,Facility,500 Parkside Dr,http://www.waterloo.ca/en/gettingactive/albertmccormickcommunitycentre.asp,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+-80.547518309693885,43.487746153392905,7,Heasley Park,Park,455 Parkside Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No
+-80.517704150148717,43.484568039369357,8,Hillside Park,Park,352 Marsland Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.521263138758371,43.487469492768035,9,Forwell Park,Park,244 Dearborn Blvd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.523069782919819,43.495448955201269,10,Kingscourt Park,Park,385 Kingscourt Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.502145397445943,43.493429361703363,11,Dunvegan Park,Park,362 Dunvegan Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No
+-80.493790955415818,43.49384644924254,12,Auburn Park,Park,316 Auburn Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.489549139579893,43.489370055200673,13,University Downs Park,Park,240 Auburn Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.484304485356517,43.488170505139664,14,Exmoor Park,Park,448 Exmoor St,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.4828318573296,43.493182735635493,15,Carriage Way Park,Park,216 Carriage Way,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.495864953280048,43.499979276502138,16,Wintermeyer Park,Park,495 Forestlawn Rd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.491989128006566,43.499991820902636,17,Maverick Park,Park,311 Maverick St,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.505803053772098,43.50531849699653,18,Eastbridge Green,Park,416 Eastbridge Blvd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.504863612190974,43.50792770249997,19,Chesapeake Park,Park,530 Chesapeake Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.501471755462745,43.508780728122879,20,Bluenose Park,Park,612 Bluenose Crt,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.503064894034665,43.515214676172242,21,Whitecap Park,Park,814 Whitecap Ave,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.50113175278571,43.513815403151789,22,Angler Way Park,Park,741 Angler Way,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.505767661088441,43.515445999481123,23,Atlantic Park,Park,934 Atlantic Blvd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.515216429256469,43.512686510718822,24,Haida Park,Park,631 Breakwater Cres,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.522683927100715,43.508616251663732,25,Deer Run Park,Park,611 Deer Run Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.516931051130513,43.495291434436119,26,Bluestream Park,Park,476 Bluestream Rd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.519329379885491,43.500236378904347,27,Anndale Park,Park,284 Grant Cres,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.50774994317689,43.495232824845679,28,Lexington Park,Park,291 Lexington Rd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.501531039835712,43.489515816326957,29,Sandowne Park,Park,315 Sandowne Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.518813409672362,43.470471869839187,30,Brighton Park,Park,135 Brighton St,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.511171555961695,43.467740518527584,31,Glen Acres Park,Park,63 Weber St S,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.515026553233128,43.463361364629307,32,Mary Allen Park,Park,95 Allen St E,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.52423898061781,43.460485012043513,33,Alexandra Park,Park,47 Alexandra Ave,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.541549417605495,43.455349408769067,34,Culpepper Park,Park,106 Culpepper Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.550270654987202,43.449647934101577,35,Thorndale Park,Park,41 Thorndale Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.552929664457125,43.443812289955851,36,Red River Park,Park,500 Red River Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.55677843265488,43.447180974437998,37,Westvale Park,Park,270 Westvale Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.549800470001131,43.441820777432319,38,Bolingbrooke Park,Park,470 Westvale Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.544957372943458,43.447061241136488,39,Warrington Park,Park,397 Warrington Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No
+-80.562299921017413,43.444104815090213,40,West Wind Park,Park,565 Westfield Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.564659832487507,43.4502347249555,41,Rummelhardt Park,Park,590 Beechwood Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.563223582409648,43.452244435690751,42,McCrae Park,Park,137 Sandford Flemming Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.57085264477449,43.451840150089758,43,Royal Beech Park,Park,74 Erbsville Road,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.573228392179914,43.4522068783495,44,Lausanne Park,Park,424 Lausanne Cres,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.576095399682856,43.448865173507485,45,Bordeaux Park,Park,395 Sauve Cres,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.570442106464384,43.4477517315988,46,Pinerow Park,Park,643 Pinerow Cr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.57828829566283,43.456934029658726,47,Bonn Park,Park,725 Karlsfeld Rd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.583679651504923,43.454919765530541,48,Interlaken Park,Park,662 Interlaken Drive,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.585167226011166,43.456657855281684,49,Klosters Park,Park,786 Klosters Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.572049238856124,43.469114952101997,50,Laurelwood Park,Park,405 Gatestone Blvd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.58577540732314,43.46480555812326,51,Basswood Park,Park,629 Basswood St,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.587577556390102,43.46412998487601,52,Star Flower Park,Park,665 Star Flower Ave,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.588910256759746,43.464424866863411,53,Butternut Park,Park,842 Butternut Ave,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.587492456884618,43.465564413108204,54,White Elm Park,Park,635 White Elm Boulevard,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.590720611061073,43.465717134433376,55,Royal Fern Park,Park,659 Royal Fern St,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.590082204488866,43.464617236071007,56,Mountain Maple Park,Park,628 Mountian Maple Ave,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.591020234981045,43.462786015936821,57,Black Cherry Park,Park,699 Black Cherry St,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.588260798351257,43.461788263277079,58,Salzburg Park,Park,699 Salzburg Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.592213934388255,43.461339863861802,59,Columbia Forest Court Park,Park,819 Columbia Forest Court,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.592294996398522,43.467196253598892,60,Blue Beech Park,Park,529 Blue Beech Blvd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.597062460467541,43.473205768284146,61,Creekside Park,Park,916 Creekside Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.599194502594145,43.472604816028955,62,Winterberry Park,Park,614 Winterberry Ave,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.585818654149364,43.471359555773724,63,Old Oak Park,Park,505 Laurelwood Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.590374580176615,43.474878095822859,64,Birchmount Park,Park,826 Birchmount Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.601819345527673,43.473167457524994,65,Goldthread Park,Park,606 Goldthread St,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.601670491892932,43.470927481899345,66,Woolgrass Park,Park,555 Woolgrass Ave,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.604835870663209,43.462282949818857,67,Autumn Willow Park,Park,844 Autumn WIllow Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.561517857133978,43.459750941577681,68,Regency Park,Park,211 Roxton Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.558219595089795,43.466007985298646,69,Old Post Park,Park,307 Craigleith Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.560891009192872,43.478737434946432,70,Westmount Sports Park,Park,440 Westmount Rd N,http://www.waterloo.ca/en/gettingactive/westmountsportspark.asp,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.563018379606589,43.490484922403859,71,Northfield Park,Park,335 Northfield Dr ,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No
+-80.556089454439487,43.486400076535595,72,Canewood Park,Park,592 A Canewood Cres,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.567270594110695,43.49256258906761,73,Cornerbrook Park,Park,137 Cornerbrook Cr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.588519130013935,43.48906858798702,74,Wasaga Park,Park,541 Wasaga Cres,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.575720617617463,43.492723998750982,75,Conservation Meadows Park,Park,"350 Conservation Dr
+350 Conservation Dr",http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.56244948966868,43.497209760379278,76,Pinebrook Park,Park,635 Sprucehurst Cres,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No
+-80.570804383493595,43.498604154132458,77,Jacob Green,Park,675 Jacob Lane,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.554963298446509,43.498228547936726,78,Lakeshore Optimist Park,Park,280 Northlake Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.596928623379412,43.470598395943469,79,Abraham Erb School,School,710 Laurelwood Dr,http://abe.wrdsb.ca,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.59592276786907,43.471954693228383,80,Sir John A. MacDonald School,School,650 Laurelwood Dr,http://jam.wrdsb.ca,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes
+-80.499676899658013,43.474259881236677,81,Bluevale Collegiate Institute,School,80 Bluevale St N,http://bci.wrdsb.ca,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes
+-80.55215898477077,43.488008135664522,82,Cedarbrae Public School,School,230 Cedarbrae Ave,http://ced.wrdsb.ca,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No
+-80.603474883812325,43.486589916960924,83,Creekside Church,Park,660 Conservation Drive,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+-80.496950161961109,43.501113680254988,84,Lexington Public School,School,431 Forestlawn Rd,http://lex.wrdsb.ca,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No
+-80.508167980746052,43.48232309339577,85,Lincoln Heights Public School,School,270 Quickfall Dr,http://lnh.wrdsb.ca,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No
+-80.526568511270384,43.505038126997654,86,Northfield Pond Park,Park,165 Frobisher Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No
+-80.586991758236593,43.472015087771034,87,St. Nicholas School,School,525 Laurelwood Dr,http://stnicholas.wcdsb.ca/,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.503760464799896,43.509340504692638,88,St. Luke Catholic School,School,550 Chesapeake Dr,http://stluke.wcdsb.ca/,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No
+-80.5289828580066,43.479322252636898,89,Waterloo Collegiate Institute,School,300 Hazel St,http://wci.wrdsb.ca,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes
+-80.568605488095926,43.489988511114781,90,Laurel Creek Conservation Area,Facility,625 Westmount Rd N,,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+-80.525579221749965,43.468003888550989,91,Albert Green,Park,70 Albert St,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.568808320499997,43.459614533679172,92,Amberwood Park,Park,329 Amberwood Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.495034130419185,43.496159989116933,93,Auburn Green,Park,370 Auburn Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.52451874619338,43.462729036635203,94,Barrel Warehouse Park,Park,1 Father David Bauer Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.551452936715805,43.484315318614989,95,Bearinger Park,Park,505 Glen Forrest Blvd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.496717404011449,43.483372462306086,96,Bechtel Park Reserve,Park,185 Bridge St W,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.561097031178591,43.50160461991571,97,Benjamin Park,Park,655 Weber St N,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.595055598270932,43.469162658461492,98,Blue Beech Square,Park,685 Laurelwood Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.524826048305556,43.490183730204137,99,Blue Springs Park,Park,60 Bluesprings Dr ,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.521257996761676,43.461211405940631,100,Brewmeister Green,Park,155 King St S,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.510054015568912,43.491689216493448,101,Camelot Park,Park,240 Camelot Crt,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.524192651091852,43.46652935524596,102,Carnegie Green,Park,40 Albert St,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.578520872094487,43.464706511495066,103,Cavendish Park,Park,404 Cavendish Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.55084779098803,43.456517146861117,104,Churchill Park,Park,164 Reiber Crt,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.55359780866192,43.46342451033059,105,Clair Lake Park,Park,375 Craigleith Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.573320101515463,43.453680413543658,106,Clair Woods,Park,175 Erbsville Rd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.544944723006495,43.486028558766982,107,CN Green,Park,200 Bearinger Road,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.589117837935135,43.463416345470023,108,Columbia Forest Green,Park,720 Columbia Forest Blvd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.584848117443357,43.454639678437147,109,Columbia st Buffer,Park,,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.528033461363222,43.489236972865065,110,Conestoga Green,Park,465 King St N,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.559225140296405,43.464250502012433,111,Craigleith Park,Park,384 Craigleith Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.492544319309033,43.521549446755174,112,Deerfoot Park,Park,330 Deerfoot Trail,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.588397402475238,43.462730954831549,113,Forest Hill Park,Park,739 Columbia Forest Blvd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.520865373802494,43.461592731609187,114,Heritage Green,Park,148 King St S,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.518553115551356,43.488953328362143,115,Holbeach Green,Park,120 Lexington Rd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.586055490196017,43.472937143261291,116,Hollyview Park,Park,530 Laurelwood Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.545223006306117,43.458720836277379,117,Karen Walk Parkette,Park,316 Karen Pl,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.493356918209727,43.502999819703192,118,Kaufman Flats,Park,755 University Ave E,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.552431274785164,43.456848448858842,119,Keats Way Woods,Park,353 Keats Way,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.545990903396572,43.461790407973929,120,Keatsway Green,Park,89 McDougall Road,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.521549459390712,43.459636255462044,121,Labatts Parkette,Park,120 Park St,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.594984922158673,43.476670440356862,122,Laurel Creek Forest,Park,658 Erbsville Rd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.572515062111336,43.460466679619408,123,Leighland Park,Park,566 Leighland Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.588057188808321,43.460408877418104,124,Lookout Park,Park,872 Munich Circle,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.581331985449879,43.454469494317642,125,Lucerne Park,Park,771 Lucerne Ave,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.487770835983071,43.492861480248663,126,Melitzer Woodlot,Park,256 Pastern Trail,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.524319241858962,43.465017090831154,127,Memorial Park,Park,30 Erb St West,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.509340191064069,43.512877533009068,128,Millen Woodlot,Park,,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.50442641989136,43.514192174678904,129,New Hampshire Park,Park,650 New Hampshire St.,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.542346452681215,43.489292403086033,130,Old Albert Park,Park,605 Albert Street,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.583337723835939,43.457828727714002,131,Orchard Park,Park,538 Winterburg Walk,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.545466228965012,43.460473589775575,132,Poets' Green,Park,321 Keats Way,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.522381766737524,43.463930273881978,133,Public Square,Park,55 King St S,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.542471752715045,43.485727280298121,134,Quiet Place Park,Park,520 Quiet Place,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.596881119692341,43.466954653242006,135,Red Osier Park,Park,313 Red Osier Road,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.586047539676088,43.456082103931863,136,Rhinefall Green,Park,683 Rhinefall Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.590030590769445,43.490657294651868,137,Rideau River Park,Park,439 Rideau River st,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.50357416851152,43.47715864391531,138,Roselea Park,Park,99 Rose Lea Cres,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.590202071581572,43.461429611524316,139,Rosewood Green,Park,730 Salzburg Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.567375988000464,43.464603434685252,140,Roxton Park,Park,285 Roxton Drive,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.485578539701706,43.486402599141655,141,Shadowood Parkette,Park,110 BridleTrail,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.579382983717906,43.451559347916366,142,St. Moritz Park,Park,506 St. Moritz Ave,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.536205513955764,43.488587992054704,143,Sugarbush Park,Park,473 Weber St N,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.579447610673213,43.466338571588729,144,Trillium Valley Park,Park,522 Chancery Lane,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.554660384677348,43.489264842233162,145,Twin Oaks Park,Park,578 Glen Forest Blvd,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.506242917540547,43.474403604879917,146,Vermont Park,Park,183 Vermont St,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.528103057128604,43.475777823619573,147,Veterans' Green,Park,50 University Ave W,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.597327548439679,43.460858625646331,148,Vista Hills Park,Park,612 Sundew Dr,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.603034914516982,43.470533677672549,149,White Cedar Forest,Park,642 White Cedar Ave,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.514716284673,43.479637990339448,150,Willowdale Park,Park,135 University Ave E,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.512364507887142,43.514126861038484,151,Windward Park,Park,671 Breakwater Cres,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.584295895626241,43.458138621535767,152,Winterburg Park,Park,531 Winterburg Walk,http://www.waterloo.ca/en/gettingactive/neighbourhoodparks.asp,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+-80.554584594039923,43.491396333674309,153,Sir Edgar Bauer Catholic School,School,660 Glen Forest Blvd,http://siredgarbauer.wcdsb.ca,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.561803417109516,43.489833654843956,154,N.A. MacEachern Public School,School,580 Rolling Hills Dr,http://nam.wrdsb.ca/,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.565010899849156,43.496453321165681,155,Northlake Woods Public School,School,500 Northlake Dr,http://nlw.wrdsb.ca,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.534177009009625,43.485979931064627,156,Winston Churchill Public School,School,100 Milford Ave,http://wcp.wrdsb.ca,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.530207353277802,43.484182196710954,157,St. David Catholic Secondary School,School,4 High St,http://stdavid.wcdsb.ca,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes
+-80.502226208922139,43.473910978468858,158,St. Agnes Catholic School,School,254 Neilson Ave,http://stagnes.wcdsb.ca,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.512024601805933,43.464669088965785,159,Elizabeth Ziegler Public School,School,90 Moore Ave S,http://elz.wrdsb.ca,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.530280353519956,43.458953449623976,160,Our Lady of Lourdes Catholic School,School,55 Roslin Ave S,http://lourdes.wcdsb.ca,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.533512953919399,43.455061982598217,161,Empire Public School,School,83 Empire St,http://emp.wrdsb.ca,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No
+-80.545965569049812,43.45984520245046,162,Keatsway Public School,School,323 Keats Way,http://kea.wrdsb.ca,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.552462682979041,43.460790425863337,163,Centennial Public School,School,141 Amos Ave,http://cnw.wrdsb.ca,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+-80.564390852462779,43.458334850302229,164,Mary Johnston Public School,School,475 Brynhurst Blvd,http://mjp.wrdsb.ca,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.56040052303365,43.44477511825373,165,Westvale Public School,School,265 Westvale Dr,http://wsv.wrdsb.ca,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.553737488024012,43.445203649773447,166,Holy Rosary Catholic School,School,485 Thorndale Dr,http://holyrosary.wcdsb.ca,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.577286474509776,43.450555177808546,167,Edna Staebler Public School,School,450 Bernay Dr,http://est.wrdsb.ca,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.575534296546834,43.469250632342892,168,Laurelwood Public School,School,460 Brentcliffe Dr,http://lrw.wrdsb.ca,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.5060996100121,43.491697245750629,169,Sandowne Public School,School,265 Sandowne Dr,http://snd.wrdsb.ca,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.49419173113138,43.495297048479451,170,St. Matthew Catholic School,School,405 Pastern Trail,http://stmatthew.wcdsb.ca,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.506575863004173,43.507118230546112,171,Lester B. Pearson Public School,School,520 Chesapeake Dr,http://lbp.wrdsb.ca,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.504410110364717,43.513400746390502,172,Millen Woods Public School,School,640 New Hampshire St,http://mil.wrdsb.ca,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+-80.590791518480671,43.452118382888223,173,Vista Hills Public School,School,314 Sweet Gale St,http://vis.wrdsb.ca,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
