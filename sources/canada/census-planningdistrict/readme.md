@@ -21,8 +21,6 @@ Last updated September 11, 2013.
     * Couples with and without children (combine married and common-law) and lone-parent families (149-153, 157-159, 163)
 * Total number of persons in private households by living arrangement: number of persons not in census families, number of census family persons (108-113)
 * Total number of persons aged 65 years and over in private households: number of persons not in census families aged 65 years and over, living alone (126-127, 130)
-
-### Other categories of potential interest:
 * Total number of census families in private households: Size of census family (144-148)
 * Total number of occupied private dwellings by structural type of dwelling (206-215)
 * Knowledge of official languages (549-553)
