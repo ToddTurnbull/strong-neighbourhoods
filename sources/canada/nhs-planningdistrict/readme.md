@@ -16,6 +16,7 @@ Last updated September 11, 2013.
 ### Key categories
 * Total population in private households by immigrant status and period of immigration (17-24)
     * Immigrants, 2001 to 2011
+* Total population in private households by visible minority (458-472)
 * Total - Mobility status 5 years ago (1745-1753)
     * Non-movers (indicator of "where people make a home and put down roots")
     * Movers
@@ -25,33 +26,33 @@ Last updated September 11, 2013.
     * Participation rate, employment rate, unemployment rate
 * After-tax income in 2010 of population 15 years and over (2285-2299)
     * Median after-tax income 
+* After-tax income of households in 2010 of private households (2569-2580, 2586, 2588, 2591, 2593, 2596)
+    * One-person private households: median after-tax household total income
+    * Two-person or more private households: median after-tax household total income
+* Composition of total income in 2010 of population 15 years and over % (2333-2346)
 * Total number of occupied private dwellings by condition of dwelling (2492-2494)
     * Major repairs needed
 * Total number of private households by housing suitability (2536-2538)
     * Not suitable
 * Total number of owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio (2539-2541)
     * Spending 30% or more of household total income on shelter costs
+* Number of owner households in non-farm, non-reserve private dwellings (2543, 2545-2546, 2548)
+    * (% of owner households spending 30% or more of household total income on shelter costs)
+    * Median monthly shelter costs for owned dwellings ($)
+    * Median value of dwelling ($)
+* Number of tenant households in non-farm, non-reserve private dwellings (2550-2553)
+    * % of tenant households in subsidized housing
+    * (% of tenant households spending 30% or more of household total income on shelter costs)
+    * Median monthly shelter costs for rented dwellings ($)
 
 ### Other categories of potential interest (e.g. for neighbourhood profiles) 
+* Total population in private households by Aboriginal identity (1352-1359) (include?)
 * Total labour force population aged 15 years and over by occupation (2027, 2029-2039)
 * Total employed population aged 15 years and over with a usual place of work or no fixed workplace address by mode of transportation (2192-2198)
     * Public transit, walked, bicycle 
 * Prevalence of low income in 2010 based on after-tax low-income measure % (age breakdown) (2457-2461)
 * Total number of occupied private dwellings by period of construction (2495-2501)
 * Total number of private households by tenure (2514-2516)
-* Number of owner households in non-farm, non-reserve private dwellings (2543, 2545-2546)
-    * % of owner households spending 30% or more of household total income on shelter costs
-    * Median monthly shelter costs for owned dwellings ($)
-* Number of tenant households in non-farm, non-reserve private dwellings (2550-2553)
-    * % of tenant households in subsidized housing
-    * % of tenant households spending 30% or more of household total income on shelter costs
-    * Median monthly shelter costs for rented dwellings ($)
-* After-tax income of households in 2010 of private households (2569-2580, 2586, 2588, 2591, 2593, 2596)
-    * One-person private households: median after-tax household total income
-    * Two-person or more private households: median after-tax household total income
-    
-       **OR**
-       
 * Income in 2010 of population aged 15 years and over not in economic families (2393, 2396) PLUS
 * Family income in 2010 of economic families (2598, 2601, 2604, 2607, 2610, 2613, 2616, 2619)
 
@@ -62,10 +63,8 @@ Last updated September 11, 2013.
 * Total population in private households by immigrant status and selected places of birth
 * Total recent immigrant population in private households by selected places of birth
 * Total population in private households by generation status
-* Total population in private households by visible minority
 * Total population in private households by ethnic origins
 * Total population in private households by religion
-* Total population in private households by Aboriginal identity
 * Total population in private households by Registered or Treaty Indian status
 * Total population in private households by Aboriginal ancestry
 * Total population in private households by non-official languages spoken
@@ -84,8 +83,6 @@ Last updated September 11, 2013.
 *  Total employed population aged 15 years and over by time leaving for work 
 * Population in private households for income status: In low income in 2010 based on after-tax low-income measure (LIM-AT) **(already have this data from CPP table)**
 * Total income in 2010 of population aged 15 years and over 
-    * Median income
-* Composition of total income in 2010 of population 15 years and over %
 * Net capital gains or losses as a % of total income
 * Population aged 15 years and over who worked full year, full time and with employment income in 2010
 *  Total population by decile of adjusted after-tax family income
