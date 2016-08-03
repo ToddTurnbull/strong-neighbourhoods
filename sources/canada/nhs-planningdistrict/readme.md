@@ -24,6 +24,8 @@ Last updated September 11, 2013.
     * No certificate, diploma or degree
 * Total population aged 15 years and over by labour force status (1988-1995)
     * Participation rate, employment rate, unemployment rate
+* Total employed population aged 15 years and over with a usual place of work or no fixed workplace address by mode of transportation (2192-2198)
+    * Public transit, walked, bicycle 
 * After-tax income in 2010 of population 15 years and over (2285-2299)
     * Median after-tax income 
 * After-tax income of households in 2010 of private households (2569-2580, 2586, 2588, 2591, 2593, 2596)
@@ -48,8 +50,6 @@ Last updated September 11, 2013.
 ### Other categories of potential interest (e.g. for neighbourhood profiles) 
 * Total population in private households by Aboriginal identity (1352-1359) (include?)
 * Total labour force population aged 15 years and over by occupation (2027, 2029-2039)
-* Total employed population aged 15 years and over with a usual place of work or no fixed workplace address by mode of transportation (2192-2198)
-    * Public transit, walked, bicycle 
 * Prevalence of low income in 2010 based on after-tax low-income measure % (age breakdown) (2457-2461)
 * Total number of occupied private dwellings by period of construction (2495-2501)
 * Total number of private households by tenure (2514-2516)
