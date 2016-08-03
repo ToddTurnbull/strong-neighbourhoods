@@ -13,6 +13,9 @@ Categorie(s):
 * Shopping: Personal and Household
     * Select businesses with primary NAICS sector as 44-45: Retail trade, or those where profile starts with 'RETAIL', ‘Retail’ or ‘Sell’
 
+* Community facilities: Healthcare
+    * Profile descriptions of 'Health & Wellbeing' or 'Health & Wellness'
+
 Issues: 
 
 * Directory includes many businesses, but not comprehesive, especially for businesses outside of downtown, e.g. cannot find businesses offering bowling, pool or other such entertainment)
