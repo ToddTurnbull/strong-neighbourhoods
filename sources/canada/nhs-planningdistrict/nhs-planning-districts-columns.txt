@@ -1,0 +1,2622 @@
+  1: line_number
+  2: Geography
+  3: Total population in private households by citizenship
+  4:   Canadian citizens
+  5:     Canadian citizens aged under 18
+  6:     Canadian citizens aged 18 and over
+  7:   Not Canadian citizens
+  8:   Males in private households by citizenship
+  9:     Canadian citizens
+ 10:       Canadian citizens aged under 18
+ 11:       Canadian citizens aged 18 and over
+ 12:     Not Canadian citizens
+ 13:   Females in private households by citizenship
+ 14:     Canadian citizens
+ 15:       Canadian citizens aged under 18
+ 16:       Canadian citizens aged 18 and over
+ 17:     Not Canadian citizens
+ 18: Total population in private households by immigrant status and period of immigration
+ 19:   Non-immigrants
+ 20:   Immigrants
+ 21:     Before 1971
+ 22:     1971 to 1980
+ 23:     1981 to 1990
+ 24:     1991 to 2000
+ 25:     2001 to 2011
+ 26:       2001 to 2005
+ 27:       2006 to 2011
+ 28:   Non-permanent residents
+ 29:   Males in private households by immigrant status and period of immigration
+ 30:     Non-immigrants
+ 31:     Immigrants
+ 32:       Before 1971
+ 33:       1971 to 1980
+ 34:       1981 to 1990
+ 35:       1991 to 2000
+ 36:       2001 to 2011
+ 37:         2001 to 2005
+ 38:         2006 to 2011
+ 39:     Non-permanent residents
+ 40:   Females in private households by immigrant status and period of immigration
+ 41:     Non-immigrants
+ 42:     Immigrants
+ 43:       Before 1971
+ 44:       1971 to 1980
+ 45:       1981 to 1990
+ 46:       1991 to 2000
+ 47:       2001 to 2011
+ 48:         2001 to 2005
+ 49:         2006 to 2011
+ 50:     Non-permanent residents
+ 51: Total immigrant population in private households by age at immigration
+ 52:   Under 5 years
+ 53:   5 to 14 years
+ 54:   15 to 24 years
+ 55:   25 to 44 years
+ 56:   45 years and over
+ 57:   Male immigrants in private households by age at immigration
+ 58:     Under 5 years
+ 59:     5 to 14 years
+ 60:     15 to 24 years
+ 61:     25 to 44 years
+ 62:     45 years and over
+ 63:   Female immigrants in private households by age at immigration
+ 64:     Under 5 years
+ 65:     5 to 14 years
+ 66:     15 to 24 years
+ 67:     25 to 44 years
+ 68:     45 years and over
+ 69: Total population in private households by immigrant status and selected places of birth
+ 70:   Non-immigrants
+ 71:     Born in province of residence
+ 72:     Born outside province of residence
+ 73:   Immigrants
+ 74:     Americas
+ 75:       United States
+ 76:       Jamaica
+ 77:       Guyana
+ 78:       Haiti
+ 79:       Mexico
+ 80:       Trinidad and Tobago
+ 81:       Colombia
+ 82:       El Salvador
+ 83:       Peru
+ 84:       Chile
+ 85:       Other places of birth in Americas
+ 86:     Europe
+ 87:       United Kingdom
+ 88:       Italy
+ 89:       Germany
+ 90:       Poland
+ 91:       Portugal
+ 92:       Netherlands
+ 93:       France
+ 94:       Romania
+ 95:       Russian Federation
+ 96:       Greece
+ 97:       Ukraine
+ 98:       Croatia
+ 99:       Hungary
+100:       Bosnia and Herzegovina
+101:       Serbia
+102:       Ireland, Republic of
+103:       Other places of birth in Europe
+104:     Africa
+105:       Morocco
+106:       Algeria
+107:       Egypt
+108:       South Africa, Republic of
+109:       Nigeria
+110:       Ethiopia
+111:       Kenya
+112:       Other places of birth in Africa
+113:     Asia
+114:       India
+115:       China
+116:       Philippines
+117:       Hong Kong Special Administrative Region
+118:       Viet Nam
+119:       Pakistan
+120:       Sri Lanka
+121:       Iran
+122:       Korea, South
+123:       Lebanon
+124:       Taiwan
+125:       Iraq
+126:       Bangladesh
+127:       Afghanistan
+128:       Japan
+129:       Turkey
+130:       Other places of birth in Asia
+131:     Oceania and other
+132:       Fiji
+133:       Other places of birth
+134:   Non-permanent residents
+135:   Males in private households by immigrant status and selected places of birth
+136:     Non-immigrants
+137:       Born in province of residence
+138:       Born outside province of residence
+139:     Immigrants
+140:       Americas
+141:         United States
+142:         Jamaica
+143:         Guyana
+144:         Haiti
+145:         Mexico
+146:         Trinidad and Tobago
+147:         Colombia
+148:         El Salvador
+149:         Peru
+150:         Chile
+151:         Other places of birth in Americas
+152:       Europe
+153:         United Kingdom
+154:         Italy
+155:         Germany
+156:         Poland
+157:         Portugal
+158:         Netherlands
+159:         France
+160:         Romania
+161:         Russian Federation
+162:         Greece
+163:         Ukraine
+164:         Croatia
+165:         Hungary
+166:         Bosnia and Herzegovina
+167:         Serbia
+168:         Ireland, Republic of
+169:         Other places of birth in Europe
+170:       Africa
+171:         Morocco
+172:         Algeria
+173:         Egypt
+174:         South Africa, Republic of
+175:         Nigeria
+176:         Ethiopia
+177:         Kenya
+178:         Other places of birth in Africa
+179:       Asia
+180:         India
+181:         China
+182:         Philippines
+183:         Hong Kong Special Administrative Region
+184:         Viet Nam
+185:         Pakistan
+186:         Sri Lanka
+187:         Iran
+188:         Korea, South
+189:         Lebanon
+190:         Taiwan
+191:         Iraq
+192:         Bangladesh
+193:         Afghanistan
+194:         Japan
+195:         Turkey
+196:         Other places of birth in Asia
+197:       Oceania and other
+198:         Fiji
+199:         Other places of birth
+200:     Non-permanent residents
+201:   Females in private households by immigrant status and selected places of birth
+202:     Non-immigrants
+203:       Born in province of residence
+204:       Born outside province of residence
+205:     Immigrants
+206:       Americas
+207:         United States
+208:         Jamaica
+209:         Guyana
+210:         Haiti
+211:         Mexico
+212:         Trinidad and Tobago
+213:         Colombia
+214:         El Salvador
+215:         Peru
+216:         Chile
+217:         Other places of birth in Americas
+218:       Europe
+219:         United Kingdom
+220:         Italy
+221:         Germany
+222:         Poland
+223:         Portugal
+224:         Netherlands
+225:         France
+226:         Romania
+227:         Russian Federation
+228:         Greece
+229:         Ukraine
+230:         Croatia
+231:         Hungary
+232:         Bosnia and Herzegovina
+233:         Serbia
+234:         Ireland, Republic of
+235:         Other places of birth in Europe
+236:       Africa
+237:         Morocco
+238:         Algeria
+239:         Egypt
+240:         South Africa, Republic of
+241:         Nigeria
+242:         Ethiopia
+243:         Kenya
+244:         Other places of birth in Africa
+245:       Asia
+246:         India
+247:         China
+248:         Philippines
+249:         Hong Kong Special Administrative Region
+250:         Viet Nam
+251:         Pakistan
+252:         Sri Lanka
+253:         Iran
+254:         Korea, South
+255:         Lebanon
+256:         Taiwan
+257:         Iraq
+258:         Bangladesh
+259:         Afghanistan
+260:         Japan
+261:         Turkey
+262:         Other places of birth in Asia
+263:       Oceania and other
+264:         Fiji
+265:         Other places of birth
+266:     Non-permanent residents
+267: Total recent immigrant population in private households by selected places of birth
+268:   Americas
+269:     United States
+270:     Mexico
+271:     Cuba
+272:     Haiti
+273:     Jamaica
+274:     Brazil
+275:     Colombia
+276:     Guyana
+277:     Peru
+278:     Venezuela
+279:     Other places of birth in Americas
+280:   Europe
+281:     France
+282:     Germany
+283:     Poland
+284:     Romania
+285:     Moldova
+286:     Russian Federation
+287:     Ukraine
+288:     United Kingdom
+289:     Other places of birth in Europe
+290:   Africa
+291:     Nigeria
+292:     Ethiopia
+293:     Mauritius
+294:     Somalia
+295:     Algeria
+296:     Egypt
+297:     Morocco
+298:     Tunisia
+299:     Cameroon
+300:     Congo, The Democratic Republic of the
+301:     South Africa, Republic of
+302:     Other places of birth in Africa
+303:   Asia
+304:     Philippines
+305:     China
+306:     India
+307:     Pakistan
+308:     Iran
+309:     South Korea
+310:     Sri Lanka
+311:     Iraq
+312:     Bangladesh
+313:     Lebanon
+314:     Viet Nam
+315:     Taiwan
+316:     Afghanistan
+317:     Japan
+318:     Turkey
+319:     Israel
+320:     Nepal
+321:     Hong Kong Special Administrative Region
+322:     United Arab Emirates
+323:     Saudi Arabia
+324:     Syria
+325:     Other places of birth in Asia
+326:   Oceania and other
+327:   Recent male immigrants in private households by selected places of birth
+328:     Americas
+329:       United States
+330:       Mexico
+331:       Cuba
+332:       Haiti
+333:       Jamaica
+334:       Brazil
+335:       Colombia
+336:       Guyana
+337:       Peru
+338:       Venezuela
+339:       Other places of birth in Americas
+340:     Europe
+341:       France
+342:       Germany
+343:       Poland
+344:       Romania
+345:       Moldova
+346:       Russian Federation
+347:       Ukraine
+348:       United Kingdom
+349:       Other places of birth in Europe
+350:     Africa
+351:       Nigeria
+352:       Ethiopia
+353:       Mauritius
+354:       Somalia
+355:       Algeria
+356:       Egypt
+357:       Morocco
+358:       Tunisia
+359:       Cameroon
+360:       Congo, The Democratic Republic of the
+361:       South Africa, Republic of
+362:       Other places of birth in Africa
+363:     Asia
+364:       Philippines
+365:       China
+366:       India
+367:       Pakistan
+368:       Iran
+369:       South Korea
+370:       Sri Lanka
+371:       Iraq
+372:       Bangladesh
+373:       Lebanon
+374:       Viet Nam
+375:       Taiwan
+376:       Afghanistan
+377:       Japan
+378:       Turkey
+379:       Israel
+380:       Nepal
+381:       Hong Kong Special Administrative Region
+382:       United Arab Emirates
+383:       Saudi Arabia
+384:       Syria
+385:       Other places of birth in Asia
+386:     Oceania and other
+387:   Recent female immigrants in private households by selected places of birth
+388:     Americas
+389:       United States
+390:       Mexico
+391:       Cuba
+392:       Haiti
+393:       Jamaica
+394:       Brazil
+395:       Colombia
+396:       Guyana
+397:       Peru
+398:       Venezuela
+399:       Other places of birth in Americas
+400:     Europe
+401:       France
+402:       Germany
+403:       Poland
+404:       Romania
+405:       Moldova
+406:       Russian Federation
+407:       Ukraine
+408:       United Kingdom
+409:       Other places of birth in Europe
+410:     Africa
+411:       Nigeria
+412:       Ethiopia
+413:       Mauritius
+414:       Somalia
+415:       Algeria
+416:       Egypt
+417:       Morocco
+418:       Tunisia
+419:       Cameroon
+420:       Congo, The Democratic Republic of the
+421:       South Africa, Republic of
+422:       Other places of birth in Africa
+423:     Asia
+424:       Philippines
+425:       China
+426:       India
+427:       Pakistan
+428:       Iran
+429:       South Korea
+430:       Sri Lanka
+431:       Iraq
+432:       Bangladesh
+433:       Lebanon
+434:       Viet Nam
+435:       Taiwan
+436:       Afghanistan
+437:       Japan
+438:       Turkey
+439:       Israel
+440:       Nepal
+441:       Hong Kong Special Administrative Region
+442:       United Arab Emirates
+443:       Saudi Arabia
+444:       Syria
+445:       Other places of birth in Asia
+446:     Oceania and other
+447: Total population in private households by generation status
+448:   First generation
+449:   Second generation
+450:   Third generation or more
+451:   Males in private households by generation status
+452:     First generation
+453:     Second generation
+454:     Third generation or more
+455:   Females in private households by generation status
+456:     First generation
+457:     Second generation
+458:     Third generation or more
+459: Total population in private households by visible minority
+460:   Total visible minority population
+461:     South Asian
+462:     Chinese
+463:     Black
+464:     Filipino
+465:     Latin American
+466:     Arab
+467:     Southeast Asian
+468:     West Asian
+469:     Korean
+470:     Japanese
+471:     Visible minority, n.i.e.
+472:     Multiple visible minorities
+473:   Not a visible minority
+474:   Males in private households by visible minority
+475:     Total visible minority population
+476:       South Asian
+477:       Chinese
+478:       Black
+479:       Filipino
+480:       Latin American
+481:       Arab
+482:       Southeast Asian
+483:       West Asian
+484:       Korean
+485:       Japanese
+486:       Visible minority, n.i.e.
+487:       Multiple visible minorities
+488:     Not a visible minority
+489:   Females in private households by visible minority
+490:     Total visible minority population
+491:       South Asian
+492:       Chinese
+493:       Black
+494:       Filipino
+495:       Latin American
+496:       Arab
+497:       Southeast Asian
+498:       West Asian
+499:       Korean
+500:       Japanese
+501:       Visible minority, n.i.e.
+502:       Multiple visible minorities
+503:     Not a visible minority
+504: Total population in private households by ethnic origins
+505:   North American Aboriginal origins
+506:     First Nations (North American Indian)
+507:     Inuit
+508:     Mtis
+509:   Other North American origins
+510:     Acadian
+511:     American
+512:     Canadian
+513:     New Brunswicker
+514:     Newfoundlander
+515:     Nova Scotian
+516:     Ontarian
+517:     Qubcois
+518:     Other North American origins, n.i.e.
+519:   European origins
+520:     British Isles origins
+521:       Channel Islander
+522:       Cornish
+523:       English
+524:       Irish
+525:       Manx
+526:       Scottish
+527:       Welsh
+528:       British Isles origins, n.i.e.
+529:     French origins
+530:       Alsatian
+531:       Breton
+532:       French
+533:     Western European origins (except French origins)
+534:       Austrian
+535:       Belgian
+536:       Dutch
+537:       Flemish
+538:       Frisian
+539:       German
+540:       Luxembourger
+541:       Swiss
+542:       Western European origins, n.i.e.
+543:     Northern European origins (except British Isles origins)
+544:       Danish
+545:       Finnish
+546:       Icelandic
+547:       Norwegian
+548:       Swedish
+549:       Northern European origins, n.i.e.
+550:     Eastern European origins
+551:       Bulgarian
+552:       Byelorussian
+553:       Czech
+554:       Czechoslovakian, n.o.s.
+555:       Estonian
+556:       Hungarian
+557:       Latvian
+558:       Lithuanian
+559:       Moldovan
+560:       Polish
+561:       Romanian
+562:       Russian
+563:       Slovak
+564:       Ukrainian
+565:       Eastern European origins, n.i.e.
+566:     Southern European origins
+567:       Albanian
+568:       Bosnian
+569:       Croatian
+570:       Cypriot
+571:       Greek
+572:       Italian
+573:       Kosovar
+574:       Macedonian
+575:       Maltese
+576:       Montenegrin
+577:       Portuguese
+578:       Serbian
+579:       Sicilian
+580:       Slovenian
+581:       Spanish
+582:       Yugoslavian, n.o.s.
+583:       Southern European origins, n.i.e.
+584:     Other European origins
+585:       Basque
+586:       Jewish
+587:       Roma (Gypsy)
+588:       Slavic, n.o.s.
+589:       Other European origins, n.i.e.
+590:   Caribbean origins
+591:     Antiguan
+592:     Bahamian
+593:     Barbadian
+594:     Bermudan
+595:     Carib
+596:     Cuban
+597:     Dominican
+598:     Grenadian
+599:     Haitian
+600:     Jamaican
+601:     Kittitian/Nevisian
+602:     Martinican
+603:     Montserratan
+604:     Puerto Rican
+605:     St. Lucian
+606:     Trinidadian/Tobagonian
+607:     Vincentian/Grenadinian
+608:     West Indian, n.o.s.
+609:     Caribbean origins, n.i.e.
+610:   Latin, Central and South American origins
+611:     Aboriginal from Central/South America (except Maya)
+612:     Argentinian
+613:     Belizean
+614:     Bolivian
+615:     Brazilian
+616:     Chilean
+617:     Colombian
+618:     Costa Rican
+619:     Ecuadorian
+620:     Guatemalan
+621:     Guyanese
+622:     Hispanic
+623:     Honduran
+624:     Maya
+625:     Mexican
+626:     Nicaraguan
+627:     Panamanian
+628:     Paraguayan
+629:     Peruvian
+630:     Salvadorean
+631:     Uruguayan
+632:     Venezuelan
+633:     Latin, Central and South American origins, n.i.e.
+634:   African origins
+635:     Central and West African origins
+636:       Akan
+637:       Angolan
+638:       Ashanti
+639:       Beninese
+640:       Burkinabe
+641:       Cameroonian
+642:       Chadian
+643:       Congolese
+644:       Gabonese
+645:       Gambian
+646:       Ghanaian
+647:       Guinean
+648:       Ibo
+649:       Ivorian
+650:       Liberian
+651:       Malian
+652:       Nigerian
+653:       Peulh
+654:       Senegalese
+655:       Sierra Leonean
+656:       Togolese
+657:       Yoruba
+658:       Central and West African origins, n.i.e.
+659:     North African origins
+660:       Algerian
+661:       Berber
+662:       Coptic
+663:       Dinka
+664:       Egyptian
+665:       Libyan
+666:       Maure
+667:       Moroccan
+668:       Sudanese
+669:       Tunisian
+670:       North African origins, n.i.e.
+671:     Southern and East African origins
+672:       Afrikaner
+673:       Amhara
+674:       Bantu, n.o.s.
+675:       Burundian
+676:       Eritrean
+677:       Ethiopian
+678:       Harari
+679:       Kenyan
+680:       Malagasy
+681:       Mauritian
+682:       Oromo
+683:       Rwandan
+684:       Seychellois
+685:       Somali
+686:       South African
+687:       Tanzanian
+688:       Tigrian
+689:       Ugandan
+690:       Zambian
+691:       Zimbabwean
+692:       Zulu
+693:       Southern and East African origins, n.i.e.
+694:     Other African origins
+695:       Black, n.o.s.
+696:       Other African origins, n.i.e.
+697:   Asian origins
+698:     West Central Asian and Middle Eastern origins
+699:       Afghan
+700:       Arab, n.o.s.
+701:       Armenian
+702:       Assyrian
+703:       Azerbaijani
+704:       Georgian
+705:       Iranian
+706:       Iraqi
+707:       Israeli
+708:       Jordanian
+709:       Kazakh
+710:       Kurd
+711:       Kuwaiti
+712:       Lebanese
+713:       Palestinian
+714:       Pashtun
+715:       Saudi Arabian
+716:       Syrian
+717:       Tajik
+718:       Tatar
+719:       Turk
+720:       Uighur
+721:       Uzbek
+722:       Yemeni
+723:       West Central Asian and Middle Eastern origins, n.i.e.
+724:     South Asian origins
+725:       Bangladeshi
+726:       Bengali
+727:       East Indian
+728:       Goan
+729:       Gujarati
+730:       Kashmiri
+731:       Nepali
+732:       Pakistani
+733:       Punjabi
+734:       Sinhalese
+735:       Sri Lankan
+736:       Tamil
+737:       South Asian origins, n.i.e.
+738:     East and Southeast Asian origins
+739:       Burmese
+740:       Cambodian (Khmer)
+741:       Chinese
+742:       Filipino
+743:       Hmong
+744:       Indonesian
+745:       Japanese
+746:       Korean
+747:       Laotian
+748:       Malaysian
+749:       Mongolian
+750:       Singaporean
+751:       Taiwanese
+752:       Thai
+753:       Tibetan
+754:       Vietnamese
+755:       East and Southeast Asian origins, n.i.e.
+756:     Other Asian origins
+757:       Other Asian origins, n.i.e.
+758:   Oceania origins
+759:     Australian
+760:     New Zealander
+761:     Pacific Islands origins
+762:       Fijian
+763:       Hawaiian
+764:       Maori
+765:       Polynesian, n.o.s.
+766:       Samoan
+767:       Pacific Islands origins, n.i.e.
+768:   Males in private households by ethnic origins
+769:     North American Aboriginal origins
+770:       First Nations (North American Indian)
+771:       Inuit
+772:       Mtis
+773:     Other North American origins
+774:       Acadian
+775:       American
+776:       Canadian
+777:       New Brunswicker
+778:       Newfoundlander
+779:       Nova Scotian
+780:       Ontarian
+781:       Qubcois
+782:       Other North American origins, n.i.e.
+783:     European origins
+784:       British Isles origins
+785:         Channel Islander
+786:         Cornish
+787:         English
+788:         Irish
+789:         Manx
+790:         Scottish
+791:         Welsh
+792:         British Isles origins, n.i.e.
+793:       French origins
+794:         Alsatian
+795:         Breton
+796:         French
+797:       Western European origins (except French origins)
+798:         Austrian
+799:         Belgian
+800:         Dutch
+801:         Flemish
+802:         Frisian
+803:         German
+804:         Luxembourger
+805:         Swiss
+806:         Western European origins, n.i.e.
+807:       Northern European origins (except British Isles origins)
+808:         Danish
+809:         Finnish
+810:         Icelandic
+811:         Norwegian
+812:         Swedish
+813:         Northern European origins, n.i.e.
+814:       Eastern European origins
+815:         Bulgarian
+816:         Byelorussian
+817:         Czech
+818:         Czechoslovakian, n.o.s.
+819:         Estonian
+820:         Hungarian
+821:         Latvian
+822:         Lithuanian
+823:         Moldovan
+824:         Polish
+825:         Romanian
+826:         Russian
+827:         Slovak
+828:         Ukrainian
+829:         Eastern European origins, n.i.e.
+830:       Southern European origins
+831:         Albanian
+832:         Bosnian
+833:         Croatian
+834:         Cypriot
+835:         Greek
+836:         Italian
+837:         Kosovar
+838:         Macedonian
+839:         Maltese
+840:         Montenegrin
+841:         Portuguese
+842:         Serbian
+843:         Sicilian
+844:         Slovenian
+845:         Spanish
+846:         Yugoslavian, n.o.s.
+847:         Southern European origins, n.i.e.
+848:       Other European origins
+849:         Basque
+850:         Jewish
+851:         Roma (Gypsy)
+852:         Slavic, n.o.s.
+853:         Other European origins, n.i.e.
+854:     Caribbean origins
+855:       Antiguan
+856:       Bahamian
+857:       Barbadian
+858:       Bermudan
+859:       Carib
+860:       Cuban
+861:       Dominican
+862:       Grenadian
+863:       Haitian
+864:       Jamaican
+865:       Kittitian/Nevisian
+866:       Martinican
+867:       Montserratan
+868:       Puerto Rican
+869:       St. Lucian
+870:       Trinidadian/Tobagonian
+871:       Vincentian/Grenadinian
+872:       West Indian, n.o.s.
+873:       Caribbean origins, n.i.e.
+874:     Latin, Central and South American origins
+875:       Aboriginal from Central/South America (except Maya)
+876:       Argentinian
+877:       Belizean
+878:       Bolivian
+879:       Brazilian
+880:       Chilean
+881:       Colombian
+882:       Costa Rican
+883:       Ecuadorian
+884:       Guatemalan
+885:       Guyanese
+886:       Hispanic
+887:       Honduran
+888:       Maya
+889:       Mexican
+890:       Nicaraguan
+891:       Panamanian
+892:       Paraguayan
+893:       Peruvian
+894:       Salvadorean
+895:       Uruguayan
+896:       Venezuelan
+897:       Latin, Central and South American origins, n.i.e.
+898:     African origins
+899:       Central and West African origins
+900:         Akan
+901:         Angolan
+902:         Ashanti
+903:         Beninese
+904:         Burkinabe
+905:         Cameroonian
+906:         Chadian
+907:         Congolese
+908:         Gabonese
+909:         Gambian
+910:         Ghanaian
+911:         Guinean
+912:         Ibo
+913:         Ivorian
+914:         Liberian
+915:         Malian
+916:         Nigerian
+917:         Peulh
+918:         Senegalese
+919:         Sierra Leonean
+920:         Togolese
+921:         Yoruba
+922:         Central and West African origins, n.i.e.
+923:       North African origins
+924:         Algerian
+925:         Berber
+926:         Coptic
+927:         Dinka
+928:         Egyptian
+929:         Libyan
+930:         Maure
+931:         Moroccan
+932:         Sudanese
+933:         Tunisian
+934:         North African origins, n.i.e.
+935:       Southern and East African origins
+936:         Afrikaner
+937:         Amhara
+938:         Bantu, n.o.s.
+939:         Burundian
+940:         Eritrean
+941:         Ethiopian
+942:         Harari
+943:         Kenyan
+944:         Malagasy
+945:         Mauritian
+946:         Oromo
+947:         Rwandan
+948:         Seychellois
+949:         Somali
+950:         South African
+951:         Tanzanian
+952:         Tigrian
+953:         Ugandan
+954:         Zambian
+955:         Zimbabwean
+956:         Zulu
+957:         Southern and East African origins, n.i.e.
+958:       Other African origins
+959:         Black, n.o.s.
+960:         Other African origins, n.i.e.
+961:     Asian origins
+962:       West Central Asian and Middle Eastern origins
+963:         Afghan
+964:         Arab, n.o.s.
+965:         Armenian
+966:         Assyrian
+967:         Azerbaijani
+968:         Georgian
+969:         Iranian
+970:         Iraqi
+971:         Israeli
+972:         Jordanian
+973:         Kazakh
+974:         Kurd
+975:         Kuwaiti
+976:         Lebanese
+977:         Palestinian
+978:         Pashtun
+979:         Saudi Arabian
+980:         Syrian
+981:         Tajik
+982:         Tatar
+983:         Turk
+984:         Uighur
+985:         Uzbek
+986:         Yemeni
+987:         West Central Asian and Middle Eastern origins, n.i.e.
+988:       South Asian origins
+989:         Bangladeshi
+990:         Bengali
+991:         East Indian
+992:         Goan
+993:         Gujarati
+994:         Kashmiri
+995:         Nepali
+996:         Pakistani
+997:         Punjabi
+998:         Sinhalese
+999:         Sri Lankan
+1000:         Tamil
+1001:         South Asian origins, n.i.e.
+1002:       East and Southeast Asian origins
+1003:         Burmese
+1004:         Cambodian (Khmer)
+1005:         Chinese
+1006:         Filipino
+1007:         Hmong
+1008:         Indonesian
+1009:         Japanese
+1010:         Korean
+1011:         Laotian
+1012:         Malaysian
+1013:         Mongolian
+1014:         Singaporean
+1015:         Taiwanese
+1016:         Thai
+1017:         Tibetan
+1018:         Vietnamese
+1019:         East and Southeast Asian origins, n.i.e.
+1020:       Other Asian origins
+1021:         Other Asian origins, n.i.e.
+1022:     Oceania origins
+1023:       Australian
+1024:       New Zealander
+1025:       Pacific Islands origins
+1026:         Fijian
+1027:         Hawaiian
+1028:         Maori
+1029:         Polynesian, n.o.s.
+1030:         Samoan
+1031:         Pacific Islands origins, n.i.e.
+1032:   Females in private households by ethnic origins
+1033:     North American Aboriginal origins
+1034:       First Nations (North American Indian)
+1035:       Inuit
+1036:       Mtis
+1037:     Other North American origins
+1038:       Acadian
+1039:       American
+1040:       Canadian
+1041:       New Brunswicker
+1042:       Newfoundlander
+1043:       Nova Scotian
+1044:       Ontarian
+1045:       Qubcois
+1046:       Other North American origins, n.i.e.
+1047:     European origins
+1048:       British Isles origins
+1049:         Channel Islander
+1050:         Cornish
+1051:         English
+1052:         Irish
+1053:         Manx
+1054:         Scottish
+1055:         Welsh
+1056:         British Isles origins, n.i.e.
+1057:       French origins
+1058:         Alsatian
+1059:         Breton
+1060:         French
+1061:       Western European origins (except French origins)
+1062:         Austrian
+1063:         Belgian
+1064:         Dutch
+1065:         Flemish
+1066:         Frisian
+1067:         German
+1068:         Luxembourger
+1069:         Swiss
+1070:         Western European origins, n.i.e.
+1071:       Northern European origins (except British Isles origins)
+1072:         Danish
+1073:         Finnish
+1074:         Icelandic
+1075:         Norwegian
+1076:         Swedish
+1077:         Northern European origins, n.i.e.
+1078:       Eastern European origins
+1079:         Bulgarian
+1080:         Byelorussian
+1081:         Czech
+1082:         Czechoslovakian, n.o.s.
+1083:         Estonian
+1084:         Hungarian
+1085:         Latvian
+1086:         Lithuanian
+1087:         Moldovan
+1088:         Polish
+1089:         Romanian
+1090:         Russian
+1091:         Slovak
+1092:         Ukrainian
+1093:         Eastern European origins, n.i.e.
+1094:       Southern European origins
+1095:         Albanian
+1096:         Bosnian
+1097:         Croatian
+1098:         Cypriot
+1099:         Greek
+1100:         Italian
+1101:         Kosovar
+1102:         Macedonian
+1103:         Maltese
+1104:         Montenegrin
+1105:         Portuguese
+1106:         Serbian
+1107:         Sicilian
+1108:         Slovenian
+1109:         Spanish
+1110:         Yugoslavian, n.o.s.
+1111:         Southern European origins, n.i.e.
+1112:       Other European origins
+1113:         Basque
+1114:         Jewish
+1115:         Roma (Gypsy)
+1116:         Slavic, n.o.s.
+1117:         Other European origins, n.i.e.
+1118:     Caribbean origins
+1119:       Antiguan
+1120:       Bahamian
+1121:       Barbadian
+1122:       Bermudan
+1123:       Carib
+1124:       Cuban
+1125:       Dominican
+1126:       Grenadian
+1127:       Haitian
+1128:       Jamaican
+1129:       Kittitian/Nevisian
+1130:       Martinican
+1131:       Montserratan
+1132:       Puerto Rican
+1133:       St. Lucian
+1134:       Trinidadian/Tobagonian
+1135:       Vincentian/Grenadinian
+1136:       West Indian, n.o.s.
+1137:       Caribbean origins, n.i.e.
+1138:     Latin, Central and South American origins
+1139:       Aboriginal from Central/South America (except Maya)
+1140:       Argentinian
+1141:       Belizean
+1142:       Bolivian
+1143:       Brazilian
+1144:       Chilean
+1145:       Colombian
+1146:       Costa Rican
+1147:       Ecuadorian
+1148:       Guatemalan
+1149:       Guyanese
+1150:       Hispanic
+1151:       Honduran
+1152:       Maya
+1153:       Mexican
+1154:       Nicaraguan
+1155:       Panamanian
+1156:       Paraguayan
+1157:       Peruvian
+1158:       Salvadorean
+1159:       Uruguayan
+1160:       Venezuelan
+1161:       Latin, Central and South American origins, n.i.e.
+1162:     African origins
+1163:       Central and West African origins
+1164:         Akan
+1165:         Angolan
+1166:         Ashanti
+1167:         Beninese
+1168:         Burkinabe
+1169:         Cameroonian
+1170:         Chadian
+1171:         Congolese
+1172:         Gabonese
+1173:         Gambian
+1174:         Ghanaian
+1175:         Guinean
+1176:         Ibo
+1177:         Ivorian
+1178:         Liberian
+1179:         Malian
+1180:         Nigerian
+1181:         Peulh
+1182:         Senegalese
+1183:         Sierra Leonean
+1184:         Togolese
+1185:         Yoruba
+1186:         Central and West African origins, n.i.e.
+1187:       North African origins
+1188:         Algerian
+1189:         Berber
+1190:         Coptic
+1191:         Dinka
+1192:         Egyptian
+1193:         Libyan
+1194:         Maure
+1195:         Moroccan
+1196:         Sudanese
+1197:         Tunisian
+1198:         North African origins, n.i.e.
+1199:       Southern and East African origins
+1200:         Afrikaner
+1201:         Amhara
+1202:         Bantu, n.o.s.
+1203:         Burundian
+1204:         Eritrean
+1205:         Ethiopian
+1206:         Harari
+1207:         Kenyan
+1208:         Malagasy
+1209:         Mauritian
+1210:         Oromo
+1211:         Rwandan
+1212:         Seychellois
+1213:         Somali
+1214:         South African
+1215:         Tanzanian
+1216:         Tigrian
+1217:         Ugandan
+1218:         Zambian
+1219:         Zimbabwean
+1220:         Zulu
+1221:         Southern and East African origins, n.i.e.
+1222:       Other African origins
+1223:         Black, n.o.s.
+1224:         Other African origins, n.i.e.
+1225:     Asian origins
+1226:       West Central Asian and Middle Eastern origins
+1227:         Afghan
+1228:         Arab, n.o.s.
+1229:         Armenian
+1230:         Assyrian
+1231:         Azerbaijani
+1232:         Georgian
+1233:         Iranian
+1234:         Iraqi
+1235:         Israeli
+1236:         Jordanian
+1237:         Kazakh
+1238:         Kurd
+1239:         Kuwaiti
+1240:         Lebanese
+1241:         Palestinian
+1242:         Pashtun
+1243:         Saudi Arabian
+1244:         Syrian
+1245:         Tajik
+1246:         Tatar
+1247:         Turk
+1248:         Uighur
+1249:         Uzbek
+1250:         Yemeni
+1251:         West Central Asian and Middle Eastern origins, n.i.e.
+1252:       South Asian origins
+1253:         Bangladeshi
+1254:         Bengali
+1255:         East Indian
+1256:         Goan
+1257:         Gujarati
+1258:         Kashmiri
+1259:         Nepali
+1260:         Pakistani
+1261:         Punjabi
+1262:         Sinhalese
+1263:         Sri Lankan
+1264:         Tamil
+1265:         South Asian origins, n.i.e.
+1266:       East and Southeast Asian origins
+1267:         Burmese
+1268:         Cambodian (Khmer)
+1269:         Chinese
+1270:         Filipino
+1271:         Hmong
+1272:         Indonesian
+1273:         Japanese
+1274:         Korean
+1275:         Laotian
+1276:         Malaysian
+1277:         Mongolian
+1278:         Singaporean
+1279:         Taiwanese
+1280:         Thai
+1281:         Tibetan
+1282:         Vietnamese
+1283:         East and Southeast Asian origins, n.i.e.
+1284:       Other Asian origins
+1285:         Other Asian origins, n.i.e.
+1286:     Oceania origins
+1287:       Australian
+1288:       New Zealander
+1289:       Pacific Islands origins
+1290:         Fijian
+1291:         Hawaiian
+1292:         Maori
+1293:         Polynesian, n.o.s.
+1294:         Samoan
+1295:         Pacific Islands origins, n.i.e.
+1296: Total population in private households by religion
+1297:   Buddhist
+1298:   Christian
+1299:     Anglican
+1300:     Baptist
+1301:     Catholic
+1302:     Christian Orthodox
+1303:     Lutheran
+1304:     Pentecostal
+1305:     Presbyterian
+1306:     United Church
+1307:     Other Christian
+1308:   Hindu
+1309:   Jewish
+1310:   Muslim
+1311:   Sikh
+1312:   Traditional (Aboriginal) Spirituality
+1313:   Other religions
+1314:   No religious affiliation
+1315:   Males in private households by religion
+1316:     Buddhist
+1317:     Christian
+1318:       Anglican
+1319:       Baptist
+1320:       Catholic
+1321:       Christian Orthodox
+1322:       Lutheran
+1323:       Pentecostal
+1324:       Presbyterian
+1325:       United Church
+1326:       Other Christian
+1327:     Hindu
+1328:     Jewish
+1329:     Muslim
+1330:     Sikh
+1331:     Traditional (Aboriginal) Spirituality
+1332:     Other religions
+1333:     No religious affiliation
+1334:   Females in private households by religion
+1335:     Buddhist
+1336:     Christian
+1337:       Anglican
+1338:       Baptist
+1339:       Catholic
+1340:       Christian Orthodox
+1341:       Lutheran
+1342:       Pentecostal
+1343:       Presbyterian
+1344:       United Church
+1345:       Other Christian
+1346:     Hindu
+1347:     Jewish
+1348:     Muslim
+1349:     Sikh
+1350:     Traditional (Aboriginal) Spirituality
+1351:     Other religions
+1352:     No religious affiliation
+1353: Total population in private households by Aboriginal identity
+1354:   Aboriginal identity
+1355:     First Nations (North American Indian) single identity
+1356:     Mtis single identity
+1357:     Inuk (Inuit) single identity
+1358:     Multiple Aboriginal identities
+1359:     Aboriginal identities not included elsewhere
+1360:   Non-Aboriginal identity
+1361:   Males in private households by Aboriginal identity
+1362:     Aboriginal identity
+1363:       First Nations (North American Indian) single identity
+1364:       Mtis single identity
+1365:       Inuk (Inuit) single identity
+1366:       Multiple Aboriginal identities
+1367:       Aboriginal identities not included elsewhere
+1368:     Non-Aboriginal identity
+1369:   Females in private households by Aboriginal identity
+1370:     Aboriginal identity
+1371:       First Nations (North American Indian) single identity
+1372:       Mtis single identity
+1373:       Inuk (Inuit) single identity
+1374:       Multiple Aboriginal identities
+1375:       Aboriginal identities not included elsewhere
+1376:     Non-Aboriginal identity
+1377: Total population in private households by Registered or Treaty Indian status
+1378:   Registered or Treaty Indian
+1379:   Not a Registered or Treaty Indian
+1380:   Males in private households by Registered or Treaty Indian status
+1381:     Registered or Treaty Indian
+1382:     Not a Registered or Treaty Indian
+1383:   Females in private households by Registered or Treaty Indian status
+1384:     Registered or Treaty Indian
+1385:     Not a Registered or Treaty Indian
+1386: Total population in private households by Aboriginal ancestry
+1387:   Aboriginal ancestry
+1388:     First Nations (North American Indian) Aboriginal ancestry
+1389:     Mtis ancestry
+1390:     Inuit ancestry
+1391:   Non-Aboriginal ancestry only
+1392:   Males in private households by Aboriginal ancestry
+1393:     Aboriginal ancestry
+1394:       First Nations (North American Indian) Aboriginal ancestry
+1395:       Mtis ancestry
+1396:       Inuit ancestry
+1397:     Non-Aboriginal ancestry only
+1398:   Females in private households by Aboriginal ancestry
+1399:     Aboriginal ancestry
+1400:       First Nations (North American Indian) Aboriginal ancestry
+1401:       Mtis ancestry
+1402:       Inuit ancestry
+1403:     Non-Aboriginal ancestry only
+1404: Total population in private households by non-official languages spoken
+1405:   Aboriginal languages
+1406:     Algonquin
+1407:     Atikamekw
+1408:     Blackfoot
+1409:     Cree languages
+1410:     Mi'kmaq
+1411:     Innu/Montagnais
+1412:     Ojibway
+1413:     Oji-Cree
+1414:     Carrier
+1415:     Dene
+1416:     Tlicho (Dogrib)
+1417:     Slavey, n.o.s.
+1418:     Stoney
+1419:     Inuktitut
+1420:     Other Aboriginal languages
+1421:   Non-Aboriginal languages
+1422:     Italian
+1423:     Portuguese
+1424:     Romanian
+1425:     Spanish
+1426:     Dutch
+1427:     Flemish
+1428:     German
+1429:     Yiddish
+1430:     Danish
+1431:     Norwegian
+1432:     Swedish
+1433:     Afrikaans
+1434:     Gaelic languages
+1435:     Bosnian
+1436:     Bulgarian
+1437:     Croatian
+1438:     Czech
+1439:     Macedonian
+1440:     Polish
+1441:     Russian
+1442:     Serbian
+1443:     Serbo-Croatian
+1444:     Slovak
+1445:     Slovenian
+1446:     Ukrainian
+1447:     Latvian
+1448:     Lithuanian
+1449:     Greek
+1450:     Armenian
+1451:     Albanian
+1452:     Estonian
+1453:     Finnish
+1454:     Hungarian
+1455:     Turkish
+1456:     Berber languages (Kabyle)
+1457:     Oromo
+1458:     Somali
+1459:     Amharic
+1460:     Arabic
+1461:     Hebrew
+1462:     Maltese
+1463:     Tigrigna
+1464:     Semitic languages, n.i.e.
+1465:     Bengali
+1466:     Gujarati
+1467:     Hindi
+1468:     Konkani
+1469:     Marathi
+1470:     Panjabi (Punjabi)
+1471:     Sindhi
+1472:     Sinhala (Sinhalese)
+1473:     Urdu
+1474:     Nepali
+1475:     Kurdish
+1476:     Pashto
+1477:     Persian (Farsi)
+1478:     Indo-Iranian languages, n.i.e.
+1479:     Kannada
+1480:     Malayalam
+1481:     Tamil
+1482:     Telugu
+1483:     Japanese
+1484:     Korean
+1485:     Cantonese
+1486:     Fukien
+1487:     Hakka
+1488:     Mandarin
+1489:     Taiwanese
+1490:     Chinese, n.o.s.
+1491:     Lao
+1492:     Thai
+1493:     Khmer (Cambodian)
+1494:     Vietnamese
+1495:     Bisayan languages
+1496:     Ilocano
+1497:     Malay
+1498:     Tagalog (Pilipino,Filipino)
+1499:     Akan (Twi)
+1500:     Lingala
+1501:     Rundi (Kirundi)
+1502:     Rwanda (Kinyarwanda)
+1503:     Swahili
+1504:     Bantu languages, n.i.e.
+1505:     Niger-Congo languages, n.i.e.
+1506:     African languages, n.i.e.
+1507:     Creoles
+1508:     Other non-Aboriginal languages
+1509:   Males in private households by non-official languages spoken
+1510:     Aboriginal languages
+1511:       Algonquin
+1512:       Atikamekw
+1513:       Blackfoot
+1514:       Cree languages
+1515:       Mi'kmaq
+1516:       Innu/Montagnais
+1517:       Ojibway
+1518:       Oji-Cree
+1519:       Carrier
+1520:       Dene
+1521:       Tlicho (Dogrib)
+1522:       Slavey, n.o.s.
+1523:       Stoney
+1524:       Inuktitut
+1525:       Other Aboriginal languages
+1526:     Non-Aboriginal languages
+1527:       Italian
+1528:       Portuguese
+1529:       Romanian
+1530:       Spanish
+1531:       Dutch
+1532:       Flemish
+1533:       German
+1534:       Yiddish
+1535:       Danish
+1536:       Norwegian
+1537:       Swedish
+1538:       Afrikaans
+1539:       Gaelic languages
+1540:       Bosnian
+1541:       Bulgarian
+1542:       Croatian
+1543:       Czech
+1544:       Macedonian
+1545:       Polish
+1546:       Russian
+1547:       Serbian
+1548:       Serbo-Croatian
+1549:       Slovak
+1550:       Slovenian
+1551:       Ukrainian
+1552:       Latvian
+1553:       Lithuanian
+1554:       Greek
+1555:       Armenian
+1556:       Albanian
+1557:       Estonian
+1558:       Finnish
+1559:       Hungarian
+1560:       Turkish
+1561:       Berber languages (Kabyle)
+1562:       Oromo
+1563:       Somali
+1564:       Amharic
+1565:       Arabic
+1566:       Hebrew
+1567:       Maltese
+1568:       Tigrigna
+1569:       Semitic languages, n.i.e.
+1570:       Bengali
+1571:       Gujarati
+1572:       Hindi
+1573:       Konkani
+1574:       Marathi
+1575:       Panjabi (Punjabi)
+1576:       Sindhi
+1577:       Sinhala (Sinhalese)
+1578:       Urdu
+1579:       Nepali
+1580:       Kurdish
+1581:       Pashto
+1582:       Persian (Farsi)
+1583:       Indo-Iranian languages, n.i.e.
+1584:       Kannada
+1585:       Malayalam
+1586:       Tamil
+1587:       Telugu
+1588:       Japanese
+1589:       Korean
+1590:       Cantonese
+1591:       Fukien
+1592:       Hakka
+1593:       Mandarin
+1594:       Taiwanese
+1595:       Chinese, n.o.s.
+1596:       Lao
+1597:       Thai
+1598:       Khmer (Cambodian)
+1599:       Vietnamese
+1600:       Bisayan languages
+1601:       Ilocano
+1602:       Malay
+1603:       Tagalog (Pilipino,Filipino)
+1604:       Akan (Twi)
+1605:       Lingala
+1606:       Rundi (Kirundi)
+1607:       Rwanda (Kinyarwanda)
+1608:       Swahili
+1609:       Bantu languages, n.i.e.
+1610:       Niger-Congo languages, n.i.e.
+1611:       African languages, n.i.e.
+1612:       Creoles
+1613:       Other non-Aboriginal languages
+1614:   Females in private households by non-official languages spoken
+1615:     Aboriginal languages
+1616:       Algonquin
+1617:       Atikamekw
+1618:       Blackfoot
+1619:       Cree languages
+1620:       Mi'kmaq
+1621:       Innu/Montagnais
+1622:       Ojibway
+1623:       Oji-Cree
+1624:       Carrier
+1625:       Dene
+1626:       Tlicho (Dogrib)
+1627:       Slavey, n.o.s.
+1628:       Stoney
+1629:       Inuktitut
+1630:       Other Aboriginal languages
+1631:     Non-Aboriginal languages
+1632:       Italian
+1633:       Portuguese
+1634:       Romanian
+1635:       Spanish
+1636:       Dutch
+1637:       Flemish
+1638:       German
+1639:       Yiddish
+1640:       Danish
+1641:       Norwegian
+1642:       Swedish
+1643:       Afrikaans
+1644:       Gaelic languages
+1645:       Bosnian
+1646:       Bulgarian
+1647:       Croatian
+1648:       Czech
+1649:       Macedonian
+1650:       Polish
+1651:       Russian
+1652:       Serbian
+1653:       Serbo-Croatian
+1654:       Slovak
+1655:       Slovenian
+1656:       Ukrainian
+1657:       Latvian
+1658:       Lithuanian
+1659:       Greek
+1660:       Armenian
+1661:       Albanian
+1662:       Estonian
+1663:       Finnish
+1664:       Hungarian
+1665:       Turkish
+1666:       Berber languages (Kabyle)
+1667:       Oromo
+1668:       Somali
+1669:       Amharic
+1670:       Arabic
+1671:       Hebrew
+1672:       Maltese
+1673:       Tigrigna
+1674:       Semitic languages, n.i.e.
+1675:       Bengali
+1676:       Gujarati
+1677:       Hindi
+1678:       Konkani
+1679:       Marathi
+1680:       Panjabi (Punjabi)
+1681:       Sindhi
+1682:       Sinhala (Sinhalese)
+1683:       Urdu
+1684:       Nepali
+1685:       Kurdish
+1686:       Pashto
+1687:       Persian (Farsi)
+1688:       Indo-Iranian languages, n.i.e.
+1689:       Kannada
+1690:       Malayalam
+1691:       Tamil
+1692:       Telugu
+1693:       Japanese
+1694:       Korean
+1695:       Cantonese
+1696:       Fukien
+1697:       Hakka
+1698:       Mandarin
+1699:       Taiwanese
+1700:       Chinese, n.o.s.
+1701:       Lao
+1702:       Thai
+1703:       Khmer (Cambodian)
+1704:       Vietnamese
+1705:       Bisayan languages
+1706:       Ilocano
+1707:       Malay
+1708:       Tagalog (Pilipino,Filipino)
+1709:       Akan (Twi)
+1710:       Lingala
+1711:       Rundi (Kirundi)
+1712:       Rwanda (Kinyarwanda)
+1713:       Swahili
+1714:       Bantu languages, n.i.e.
+1715:       Niger-Congo languages, n.i.e.
+1716:       African languages, n.i.e.
+1717:       Creoles
+1718:       Other non-Aboriginal languages
+1719: Total - Mobility status 1 year ago
+1720:   Non-movers
+1721:   Movers
+1722:     Non-migrants
+1723:     Migrants
+1724:       Internal migrants
+1725:         Intraprovincial migrants
+1726:         Interprovincial migrants
+1727:       External migrants
+1728:   Males - Mobility status 1 year ago
+1729:     Non-movers
+1730:     Movers
+1731:       Non-migrants
+1732:       Migrants
+1733:         Internal migrants
+1734:           Intraprovincial migrants
+1735:           Interprovincial migrants
+1736:         External migrants
+1737:   Females - Mobility status 1 year ago
+1738:     Non-movers
+1739:     Movers
+1740:       Non-migrants
+1741:       Migrants
+1742:         Internal migrants
+1743:           Intraprovincial migrants
+1744:           Interprovincial migrants
+1745:         External migrants
+1746: Total - Mobility status 5 years ago
+1747:   Non-movers
+1748:   Movers
+1749:     Non-migrants
+1750:     Migrants
+1751:       Internal migrants
+1752:         Intraprovincial migrants
+1753:         Interprovincial migrants
+1754:       External migrants
+1755:   Males - Mobility status 5 years ago
+1756:     Non-movers
+1757:     Movers
+1758:       Non-migrants
+1759:       Migrants
+1760:         Internal migrants
+1761:           Intraprovincial migrants
+1762:           Interprovincial migrants
+1763:         External migrants
+1764:   Females - Mobility status 5 years ago
+1765:     Non-movers
+1766:     Movers
+1767:       Non-migrants
+1768:       Migrants
+1769:         Internal migrants
+1770:           Intraprovincial migrants
+1771:           Interprovincial migrants
+1772:         External migrants
+1773: Total population aged 15 years and over by highest certificate, diploma or degree
+1774:   No certificate, diploma or degree
+1775:   High school diploma or equivalent
+1776:   Postsecondary certificate, diploma or degree
+1777:     Apprenticeship or trades certificate or diploma
+1778:     College, CEGEP or other non-university certificate or diploma
+1779:     University certificate or diploma below bachelor level
+1780:     University certificate, diploma or degree at bachelor level or above
+1781:       Bachelor's degree
+1782:       University certificate, diploma or degree above bachelor level
+1783:   Males aged 15 years and over by highest certificate, diploma or degree
+1784:     No certificate, diploma or degree
+1785:     High school diploma or equivalent
+1786:     Postsecondary certificate, diploma or degree
+1787:       Apprenticeship or trades certificate or diploma
+1788:       College, CEGEP or other non-university certificate or diploma
+1789:       University certificate or diploma below bachelor level
+1790:       University certificate, diploma or degree at bachelor level or above
+1791:         Bachelor's degree
+1792:         University certificate, diploma or degree above bachelor level
+1793:   Females aged 15 years and over by highest certificate, diploma or degree
+1794:     No certificate, diploma or degree
+1795:     High school diploma or equivalent
+1796:     Postsecondary certificate, diploma or degree
+1797:       Apprenticeship or trades certificate or diploma
+1798:       College, CEGEP or other non-university certificate or diploma
+1799:       University certificate or diploma below bachelor level
+1800:       University certificate, diploma or degree at bachelor level or above
+1801:         Bachelor's degree
+1802:         University certificate, diploma or degree above bachelor level
+1803: Total population aged 25 to 64 years by highest certificate, diploma or degree
+1804:   No certificate, diploma or degree
+1805:   High school diploma or equivalent
+1806:   Postsecondary certificate, diploma or degree
+1807:     Apprenticeship or trades certificate or diploma
+1808:     College, CEGEP or other non-university certificate or diploma
+1809:     University certificate or diploma below bachelor level
+1810:     University certificate, diploma or degree at bachelor level or above
+1811:       Bachelor's degree
+1812:       University certificate, diploma or degree above bachelor level
+1813:   Males aged 25 to 64 years by highest certificate, diploma or degree
+1814:     No certificate, diploma or degree
+1815:     High school diploma or equivalent
+1816:     Postsecondary certificate, diploma or degree
+1817:       Apprenticeship or trades certificate or diploma
+1818:       College, CEGEP or other non-university certificate or diploma
+1819:       University certificate or diploma below bachelor level
+1820:       University certificate, diploma or degree at bachelor level or above
+1821:         Bachelor's degree
+1822:         University certificate, diploma or degree above bachelor level
+1823:   Females aged 25 to 64 years by highest certificate, diploma or degree
+1824:     No certificate, diploma or degree
+1825:     High school diploma or equivalent
+1826:     Postsecondary certificate, diploma or degree
+1827:       Apprenticeship or trades certificate or diploma
+1828:       College, CEGEP or other non-university certificate or diploma
+1829:       University certificate or diploma below bachelor level
+1830:       University certificate, diploma or degree at bachelor level or above
+1831:         Bachelor's degree
+1832:         University certificate, diploma or degree above bachelor level
+1833: Total population aged 15 years and over by major field of study - Classification of Instructional Programs (CIP) 2011
+1834:   No postsecondary certificate, diploma or degree
+1835:   Education
+1836:   Visual and performing arts, and communications technologies
+1837:   Humanities
+1838:   Social and behavioural sciences and law
+1839:   Business, management and public administration
+1840:   Physical and life sciences and technologies
+1841:   Mathematics, computer and information sciences
+1842:   Architecture, engineering, and related technologies
+1843:   Agriculture, natural resources and conservation
+1844:   Health and related fields
+1845:   Personal, protective and transportation services
+1846:   Other fields of study
+1847:   Males aged 15 years and over by major field of study - Classification of Instructional Programs (CIP) 2011
+1848:     No postsecondary certificate, diploma or degree
+1849:     Education
+1850:     Visual and performing arts, and communications technologies
+1851:     Humanities
+1852:     Social and behavioural sciences and law
+1853:     Business, management and public administration
+1854:     Physical and life sciences and technologies
+1855:     Mathematics, computer and information sciences
+1856:     Architecture, engineering, and related technologies
+1857:     Agriculture, natural resources and conservation
+1858:     Health and related fields
+1859:     Personal, protective and transportation services
+1860:     Other fields of study
+1861:   Females aged 15 years and over by major field of study - Classification of Instructional Programs (CIP) 2011
+1862:     No postsecondary certificate, diploma or degree
+1863:     Education
+1864:     Visual and performing arts, and communications technologies
+1865:     Humanities
+1866:     Social and behavioural sciences and law
+1867:     Business, management and public administration
+1868:     Physical and life sciences and technologies
+1869:     Mathematics, computer and information sciences
+1870:     Architecture, engineering, and related technologies
+1871:     Agriculture, natural resources and conservation
+1872:     Health and related fields
+1873:     Personal, protective and transportation services
+1874:     Other fields of study
+1875: Total population aged 15 years and over by location of study compared with province or territory of residence
+1876:   No postsecondary certificate, diploma or degree
+1877:   With postsecondary certificate, diploma or degree
+1878:     Location of study inside Canada
+1879:       Same as province or territory of residence
+1880:       Another province or territory
+1881:     Location of study outside Canada
+1882:   Males aged 15 years and over by location of study compared with province or territory of residence
+1883:     No postsecondary certificate, diploma or degree
+1884:     With postsecondary certificate, diploma or degree
+1885:       Location of study inside Canada
+1886:         Same as province or territory of residence
+1887:         Another province or territory
+1888:       Location of study outside Canada
+1889:   Females aged 15 years and over by location of study compared with province or territory of residence
+1890:     No postsecondary certificate, diploma or degree
+1891:     With postsecondary certificate, diploma or degree
+1892:       Location of study inside Canada
+1893:         Same as province or territory of residence
+1894:         Another province or territory
+1895:       Location of study outside Canada
+1896: Total population aged 15 years and over by language used most often at work 
+1897:   Single responses 
+1898:     English
+1899:     French 
+1900:     Non-official languages 
+1901:       Chinese, n.o.s. 
+1902:       Cantonese 
+1903:       Panjabi (Punjabi) 
+1904:       Mandarin 
+1905:       Spanish
+1906:       Korean 
+1907:       German
+1908:       Cree languages 
+1909:       Portuguese 
+1910:       Inuktitut 
+1911:       Other languages 
+1912:   Multiple responses 
+1913:     English and French 
+1914:     English and non-official language 
+1915:     French and non-official language 
+1916:     English, French and non-official language
+1917:   Males aged 15 years and over by language used most often at work
+1918:     Single responses 
+1919:       English
+1920:       French
+1921:       Non-official languages 
+1922:         Chinese, n.o.s. 
+1923:         Cantonese
+1924:         Panjabi (Punjabi) 
+1925:         Mandarin
+1926:         Spanish
+1927:         Korean
+1928:         German 
+1929:         Cree languages 
+1930:         Portuguese 
+1931:         Inuktitut 
+1932:         Other languages 
+1933:     Multiple responses 
+1934:       English and French 
+1935:       English and non-official language 
+1936:       French and non-official language 
+1937:       English, French and non-official language 
+1938:   Females aged 15 years and over by language used most often at work
+1939:     Single responses 
+1940:       English 
+1941:       French 
+1942:       Non-official languages 
+1943:       Chinese, n.o.s. 
+1944:       Cantonese 
+1945:       Panjabi (Punjabi) 
+1946:       Mandarin
+1947:       Spanish 
+1948:       Korean
+1949:       German
+1950:       Cree languages
+1951:       Portuguese 
+1952:       Inuktitut 
+1953:       Other languages 
+1954:     Multiple responses 
+1955:       English and French 
+1956:       English and non-official language 
+1957:       French and non-official language
+1958:       English, French and non-official language 
+1959: Total population aged 15 years and over by language used most often at work 
+1960:   English 
+1961:   French 
+1962:   Non-official language
+1963:     Aboriginal 
+1964:     Non-Aboriginal  
+1965:   English and French 
+1966:   English and non-official language 
+1967:   French and non-official language 
+1968:   English, French and non-official language 
+1969:   Males aged 15 years and over by language used most often at work
+1970:     English 
+1971:     French
+1972:     Non-official language 
+1973:       Aboriginal 
+1974:       Non-Aboriginal 
+1975:     English and French 
+1976:     English and non-official language 
+1977:     French and non-official language 
+1978:     English, French and non-official language 
+1979:   Females aged 15 years and over by language used most often at work
+1980:     English 
+1981:     French 
+1982:     Non-official language 
+1983:       Aboriginal 
+1984:       Non-Aboriginal 
+1985:     English and French 
+1986:     English and non-official language
+1987:     French and non-official language 
+1988:     English, French and non-official language
+1989: Total population aged 15 years and over by labour force status 
+1990:   In the labour force 
+1991:     Employed 
+1992:     Unemployed
+1993:   Not in the labour force
+1994: Participation rate
+1995: Employment rate 
+1996: Unemployment rate 
+1997:   Males aged 15 years and over by labour force status
+1998:     In the labour force
+1999:       Employed
+2000:       Unemployed
+2001:     Not in the labour force
+2002:   Participation rate
+2003:   Employment rate
+2004:   Unemployment rate
+2005:   Females aged 15 years and over by labour force status
+2006:     In the labour force
+2007:       Employed
+2008:       Unemployed
+2009:     Not in the labour force
+2010:   Participation rate
+2011:   Employment rate
+2012:   Unemployment rate
+2013: Total labour force aged 15 years and over by class of worker 
+2014:   Class of worker - Not applicable
+2015:   All classes of worker 
+2016:     Employee
+2017:     Self-employed 
+2018:   Male labour force aged 15 years and over by class of worker
+2019:     Class of worker - Not applicable
+2020:     All classes of worker 
+2021:       Employee 
+2022:       Self-employed 
+2023:   Female labour force aged 15 years and over by class of worker
+2024:     Class of worker - Not applicable 
+2025:     All classes of worker
+2026:       Employee 
+2027:       Self-employed 
+2028: Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2011 
+2029:   Occupation - Not applicable 
+2030:   All occupations 
+2031:     0 Management occupations 
+2032:     1 Business, finance and administration occupations 
+2033:     2 Natural and applied sciences and related occupations
+2034:     3 Health occupations
+2035:     4 Occupations in education, law and social, community and government services
+2036:     5 Occupations in art, culture, recreation and sport 
+2037:     6 Sales and service occupations
+2038:     7 Trades, transport and equipment operators and related occupations
+2039:     8 Natural resources, agriculture and related production occupations 
+2040:     9 Occupations in manufacturing and utilities 
+2041:   Male labour force aged 15 years and over by occupation - National Occupational Classification (NOC) 2011
+2042:     Occupation - Not applicable
+2043:     All occupations
+2044:       0 Management occupations 
+2045:       1 Business, finance and administration occupations
+2046:       2 Natural and applied sciences and related occupations 
+2047:       3 Health occupations
+2048:       4 Occupations in education, law and social, community and government services 
+2049:       5 Occupations in art, culture, recreation and sport
+2050:       6 Sales and service occupations
+2051:       7 Trades, transport and equipment operators and related occupations 
+2052:       8 Natural resources, agriculture and related production occupations
+2053:       9 Occupations in manufacturing and utilities
+2054:   Female labour force aged 15 years and over by occupation - National Occupational Classification (NOC) 2011
+2055:     Occupation - Not applicable
+2056:     All occupations
+2057:       0 Management occupations
+2058:       1 Business, finance and administration occupations
+2059:       2 Natural and applied sciences and related occupations
+2060:       3 Health occupations
+2061:       4 Occupations in education, law and social, community and government services 
+2062:       5 Occupations in art, culture, recreation and sport
+2063:       6 Sales and service occupations
+2064:       7 Trades, transport and equipment operators and related occupations 
+2065:       8 Natural resources, agriculture and related production occupations
+2066:       9 Occupations in manufacturing and utilities
+2067: Total labour force population aged 15 years and over by industry - North American Industry Classification System (NAICS) 2007 
+2068:   Industry - Not applicable 
+2069:   All industries 
+2070:     11 Agriculture, forestry, fishing and hunting 
+2071:     21 Mining, quarrying, and oil and gas extraction
+2072:     22 Utilities 
+2073:     23 Construction 
+2074:     31-33 Manufacturing 
+2075:     41 Wholesale trade
+2076:     44-45 Retail trade
+2077:     48-49 Transportation and warehousing 
+2078:     51 Information and cultural industries
+2079:     52 Finance and insurance
+2080:     53 Real estate and rental and leasing 
+2081:     54 Professional, scientific and technical services 
+2082:     55 Management of companies and enterprises 
+2083:     56 Administrative and support, waste management and remediation services 
+2084:     61 Educational services
+2085:     62 Health care and social assistance
+2086:     71 Arts, entertainment and recreation 
+2087:     72 Accommodation and food services 
+2088:     81 Other services (except public administration) 
+2089:     91 Public administration 
+2090:   Male labour force aged 15 years and over by industry - North American Industry Classification System (NAICS) 2007
+2091:     Industry - Not applicable 
+2092:     All industries
+2093:       11 Agriculture, forestry, fishing and hunting 
+2094:       21 Mining, quarrying, and oil and gas extraction 
+2095:       22 Utilities
+2096:       23 Construction 
+2097:       31-33 Manufacturing 
+2098:       41 Wholesale trade
+2099:       44-45 Retail trade 
+2100:       48-49 Transportation and warehousing 
+2101:       51 Information and cultural industries 
+2102:       52 Finance and insurance 
+2103:       53 Real estate and rental and leasing
+2104:       54 Professional, scientific and technical services
+2105:       55 Management of companies and enterprises 
+2106:       56 Administrative and support, waste management and remediation services 
+2107:       61 Educational services 
+2108:       62 Health care and social assistance 
+2109:       71 Arts, entertainment and recreation 
+2110:       72 Accommodation and food services 
+2111:       81 Other services (except public administration)
+2112:       91 Public administration
+2113:  Female labour force aged 15 years and over by industry - North American Industry Classification System (NAICS) 2007
+2114:     Industry - Not applicable 
+2115:     All industries 
+2116:       11 Agriculture, forestry, fishing and hunting 
+2117:       21 Mining, quarrying, and oil and gas extraction 
+2118:       22 Utilities 
+2119:       23 Construction
+2120:       31-33 Manufacturing 
+2121:       41 Wholesale trade 
+2122:       44-45 Retail trade 
+2123:       48-49 Transportation and warehousing 
+2124:       51 Information and cultural industries 
+2125:       52 Finance and insurance 
+2126:       53 Real estate and rental and leasing 
+2127:       54 Professional, scientific and technical services 
+2128:       55 Management of companies and enterprises 
+2129:       56 Administrative and support, waste management and remediation services 
+2130:       61 Educational services
+2131:       62 Health care and social assistance
+2132:       71 Arts, entertainment and recreation 
+2133:       72 Accommodation and food services 
+2134:       81 Other services (except public administration) 
+2135:       91 Public administration 
+2136: Total labour force aged 15 years and over by work activity in 2010 
+2137:   Did not work in 2010 
+2138:   Worked in 2010 
+2139:     1 to 13 weeks 
+2140:     14 to 26 weeks 
+2141:     27 to 39 weeks
+2142:     40 to 48 weeks 
+2143:     49 to 52 weeks 
+2144: Average weeks worked in 2010 
+2145:   Male labour force aged 15 years and over by work activity in 2010
+2146:     Did not work in 2010 
+2147:     Worked in 2010 
+2148:       1 to 13 weeks 
+2149:       14 to 26 weeks
+2150:       27 to 39 weeks
+2151:       40 to 48 weeks 
+2152:       49 to 52 weeks
+2153:   Average weeks worked in 2010
+2154:   Female labour force aged 15 years and over by work activity in 2010
+2155:     Did not work in 2010 
+2156:     Worked in 2010
+2157:       1 to 13 weeks
+2158:       14 to 26 weeks
+2159:       27 to 39 weeks 
+2160:       40 to 48 weeks
+2161:       49 to 52 weeks
+2162:   Average weeks worked in 2010 
+2163: Total labour force population aged 15 years and over by full-time or part-time weeks worked in 2010 
+2164:   Did not work in 2010
+2165:   Worked in 2010
+2166:     Worked full-time in 2010
+2167:     Worked part-time in 2010 
+2168:   Male labour force aged 15 years and over by full-time or part-time weeks worked in 2010
+2169:     Did not work in 2010
+2170:     Worked in 2010
+2171:       Worked full-time in 2010 
+2172:       Worked part-time in 2010
+2173:   Female labour force aged 15 years and over by full-time or part-time weeks worked in 2010
+2174:     Did not work in 2010
+2175:     Worked in 2010
+2176:       Worked full-time in 2010 
+2177:       Worked part-time in 2010
+2178: Total employed population aged 15 years and over by place of work status 
+2179:   Worked at home 
+2180:   Worked outside Canada 
+2181:   No fixed workplace address 
+2182:   Worked at usual place 
+2183:   Employed males aged 15 years and over by place of work status
+2184:     Worked at home
+2185:     Worked outside Canada
+2186:     No fixed workplace address 
+2187:     Worked at usual place 
+2188:   Employed females aged 15 years and over by place of work status
+2189:     Worked at home 
+2190:     Worked outside Canada
+2191:     No fixed workplace address 
+2192:     Worked at usual place 
+2193: Total employed population aged 15 years and over with a usual place of work or no fixed workplace address by mode of transportation 
+2194:   Car, truck or van - as a driver 
+2195:   Car, truck or van - as a passenger 
+2196:   Public transit 
+2197:   Walked
+2198:   Bicycle
+2199:   Other methods 
+2200:   Employed males aged 15 years and over with a usual place of work or no fixed workplace address by mode of transportation
+2201:     Car, truck or van - as a driver 
+2202:     Car, truck or van - as a passenger 
+2203:     Public transit
+2204:     Walked 
+2205:     Bicycle
+2206:     Other methods 
+2207:   Employed females aged 15 years and over with a usual place of work or no fixed workplace address by mode of transportation
+2208:     Car, truck or van - as a driver 
+2209:     Car, truck or van - as a passenger 
+2210:     Public transit 
+2211:     Walked
+2212:     Bicycle
+2213:     Other methods 
+2214: Total employed population aged 15 years and over with a usual place of work or no fixed workplace address by median commuting duration 
+2215: Median commuting duration
+2216:   Employed males aged 15 years and over with a usual place of work or no fixed workplace address by median commuting duration
+2217:   Median commuting duration
+2218:   Employed females aged 15 years and over with a usual place of work or no fixed workplace address by median commuting duration
+2219:   Median commuting duration
+2220: Total employed population aged 15 years and over by time leaving for work 
+2221:   Between 5 and 6:59 a.m 
+2222:   Between 7 and 9:00 a.m. 
+2223:   Anytime after 9:00 a.m. 
+2224:   Employed males aged 15 years and over by time leaving for work
+2225:     Between 5 and 6:59 a.m 
+2226:     Between 7 and 9:00 a.m. 
+2227:     Anytime after 9:00 a.m. 
+2228:   Employed females aged 15 years and over by time leaving for work
+2229:     Between 5 and 6:59 a.m 
+2230:     Between 7 and 9:00 a.m. 
+2231:     Anytime after 9:00 a.m. 
+2232: Total income in 2010 of population aged 15 years and over
+2233:   Without income
+2234:   With income
+2235:     Under $5,000
+2236:     $5,000 to $9,999
+2237:     $10,000 to $14,999
+2238:     $15,000 to $19,999
+2239:     $20,000 to $29,999
+2240:     $30,000 to $39,999
+2241:     $40,000 to $49,999
+2242:     $50,000 to $59,999
+2243:     $60,000 to $79,999
+2244:     $80,000 to $99,999
+2245:     $100,000 and over
+2246:       $100,000 to $124,999
+2247:       $125,000 and over
+2248:   Median income $
+2249:   Average income $
+2250:   Total income in 2010 of males aged 15 years and over
+2251:     Without income
+2252:     With income
+2253:       Under $5,000
+2254:       $5,000 to $9,999
+2255:       $10,000 to $14,999
+2256:       $15,000 to $19,999
+2257:       $20,000 to $29,999
+2258:       $30,000 to $39,999
+2259:       $40,000 to $49,999
+2260:       $50,000 to $59,999
+2261:       $60,000 to $79,999
+2262:       $80,000 to $99,999
+2263:       $100,000 and over
+2264:         $100,000 to $124,999
+2265:         $125,000 and over
+2266:     Median income $
+2267:     Average income $
+2268:   Total income in 2010 of females aged 15 years and over
+2269:     Without income
+2270:     With income
+2271:       Under $5,000
+2272:       $5,000 to $9,999
+2273:       $10,000 to $14,999
+2274:       $15,000 to $19,999
+2275:       $20,000 to $29,999
+2276:       $30,000 to $39,999
+2277:       $40,000 to $49,999
+2278:       $50,000 to $59,999
+2279:       $60,000 to $79,999
+2280:       $80,000 to $99,999
+2281:       $100,000 and over
+2282:         $100,000 to $124,999
+2283:         $125,000 and over
+2284:     Median income $
+2285:     Average income $
+2286: After-tax income in 2010 of population 15 years and over
+2287:   Without after-tax income
+2288:   With after-tax income
+2289:     Under $5,000
+2290:     $5,000 to $9,999
+2291:     $10,000 to $14,999
+2292:     $15,000 to $19,999
+2293:     $20,000 to $29,999
+2294:     $30,000 to $39,999
+2295:     $40,000 to $49,999
+2296:     $50,000 to $59,999
+2297:     $60,000 to $79,999
+2298:     $80,000 to $99,999
+2299:     $100,000 and over
+2300:   Median after-tax income $
+2301:   Average after-tax income $
+2302:   After-tax income in 2010 of males 15 years and over
+2303:     Without after-tax income
+2304:     With after-tax income
+2305:       Under $5,000
+2306:       $5,000 to $9,999
+2307:       $10,000 to $14,999
+2308:       $15,000 to $19,999
+2309:       $20,000 to $29,999
+2310:       $30,000 to $39,999
+2311:       $40,000 to $49,999
+2312:       $50,000 to $59,999
+2313:       $60,000 to $79,999
+2314:       $80,000 to $99,999
+2315:       $100,000 and over
+2316:     Median after-tax income $
+2317:     Average after-tax income $
+2318:   After-tax income in 2010 of females 15 years and over
+2319:     Without after-tax income
+2320:     With after-tax income
+2321:       Under $5,000
+2322:       $5,000 to $9,999
+2323:       $10,000 to $14,999
+2324:       $15,000 to $19,999
+2325:       $20,000 to $29,999
+2326:       $30,000 to $39,999
+2327:       $40,000 to $49,999
+2328:       $50,000 to $59,999
+2329:       $60,000 to $79,999
+2330:       $80,000 to $99,999
+2331:       $100,000 and over
+2332:     Median after-tax income $
+2333:     Average after-tax income $
+2334: Composition of total income in 2010 of population 15 years and over %
+2335:   Market income %
+2336:     Employment income %
+2337:       Wages and salaries %
+2338:       Self-employment income %
+2339:     Investment income %
+2340:     Retirement pensions, superannuation and annuities %
+2341:     Other money income %
+2342:   Government transfer payments %
+2343:     Canada/Quebec Pension Plan benefits %
+2344:     Old Age Security pensions and Guaranteed Income Supplement %
+2345:     Employment Insurance benefits %
+2346:     Child benefits %
+2347:     Other income from government sources %
+2348:   Income taxes paid as a % of total income
+2349:   After-tax income as a % of total income
+2350: Net capital gains or losses as a % of total income
+2351:   Composition of total income in 2010 of males 15 years and over %
+2352:     Market income %
+2353:       Employment income %
+2354:         Wages and salaries %
+2355:         Self-employment income %
+2356:       Investment income %
+2357:       Retirement pensions, superannuation and annuities %
+2358:       Other money income %
+2359:     Government transfer payments %
+2360:       Canada/Quebec Pension Plan benefits %
+2361:       Old Age Security pensions and Guaranteed Income Supplement %
+2362:       Employment Insurance benefits %
+2363:       Child benefits %
+2364:       Other income from government sources %
+2365:     Income taxes paid as a % of total income
+2366:     After-tax income as a % of total income
+2367:   Net capital gains or losses as a % of total income
+2368:   Composition of total income in 2010 of females 15 years and over %
+2369:     Market income %
+2370:       Employment income %
+2371:         Wages and salaries %
+2372:         Self-employment income %
+2373:       Investment income %
+2374:       Retirement pensions, superannuation and annuities %
+2375:       Other money income %
+2376:     Government transfer payments %
+2377:       Canada/Quebec Pension Plan benefits %
+2378:       Old Age Security pensions and Guaranteed Income Supplement %
+2379:       Employment Insurance benefits %
+2380:       Child benefits %
+2381:       Other income from government sources %
+2382:     Income taxes paid as a % of total income
+2383:     After-tax income as a % of total income
+2384:   Net capital gains or losses as a % of total income
+2385: Population aged 15 years and over who worked full year, full time and with employment income in 2010
+2386:   Median employment income in 2010 $
+2387:   Average employment income in 2010 $
+2388:   Males aged 15 years and over who worked full year, full time and with employment income in 2010
+2389:     Median employment income in 2010 $
+2390:     Average employment income in 2010 $
+2391:   Females aged 15 years and over who worked full year, full time and with employment income in 2010
+2392:     Median employment income in 2010 $
+2393:     Average employment income in 2010 $
+2394: Income in 2010 of population aged 15 years and over not in economic families
+2395:   Median total income $
+2396:   Average total income $
+2397:   Median after-tax income $
+2398:   Average after-tax income $
+2399:   Income in 2010 of males aged 15 years and over not in economic families
+2400:     Median total income $
+2401:     Average total income $
+2402:     Median after-tax income $
+2403:     Average after-tax income $
+2404:   Income in 2010 of females aged 15 years and over not in economic families
+2405:     Median total income $
+2406:     Average total income $
+2407:     Median after-tax income $
+2408:     Average after-tax income $
+2409: Total population by decile of adjusted after-tax family income
+2410:   In bottom half of the Canadian distribution
+2411:     In bottom decile
+2412:     In second decile
+2413:     In third decile
+2414:     In fourth decile
+2415:     In fifth decile
+2416:   In top half of the Canadian distribution
+2417:     In sixth decile
+2418:     In seventh decile
+2419:     In eighth decile
+2420:     In ninth decile
+2421:     In top decile
+2422:   Total male population by decile of adjusted after-tax family income
+2423:     In bottom half of the Canadian distribution
+2424:       In bottom decile
+2425:       In second decile
+2426:       In third decile
+2427:       In fourth decile
+2428:       In fifth decile
+2429:     In top half of the Canadian distribution
+2430:       In sixth decile
+2431:       In seventh decile
+2432:       In eighth decile
+2433:       In ninth decile
+2434:       In top decile
+2435:   Total female population by decile of adjusted after-tax family income
+2436:     In bottom half of the Canadian distribution
+2437:       In bottom decile
+2438:       In second decile
+2439:       In third decile
+2440:       In fourth decile
+2441:       In fifth decile
+2442:     In top half of the Canadian distribution
+2443:       In sixth decile
+2444:       In seventh decile
+2445:       In eighth decile
+2446:       In ninth decile
+2447:       In top decile
+2448: Population in private households for income status
+2449:   Less than 18 years
+2450:     Less than 6 years
+2451:   18 to 64 years
+2452:   65 years and over
+2453: In low income in 2010 based on after-tax low-income measure (LIM-AT)
+2454:   Less than 18 years
+2455:     Less than 6 years
+2456:   18 to 64 years
+2457:   65 years and over
+2458: Prevalence of low income in 2010 based on after-tax low-income measure %
+2459:   Less than 18 years %
+2460:     Less than 6 years %
+2461:   18 to 64 years %
+2462:   65 years and over %
+2463:   Males in private households for income status
+2464:     Less than 18 years
+2465:       Less than 6 years
+2466:     18 to 64 years
+2467:     65 years and over
+2468:   In low income in 2010 based on after-tax low-income measure (LIM-AT)
+2469:     Less than 18 years
+2470:       Less than 6 years
+2471:     18 to 64 years
+2472:     65 years and over
+2473:   Prevalence of low income in 2010 based on after-tax low-income measure %
+2474:     Less than 18 years %
+2475:       Less than 6 years %
+2476:     18 to 64 years %
+2477:     65 years and over %
+2478:   Females in private households for income status
+2479:     Less than 18 years
+2480:       Less than 6 years
+2481:     18 to 64 years
+2482:     65 years and over
+2483:   In low income in 2010 based on after-tax low-income measure (LIM-AT)
+2484:     Less than 18 years
+2485:       Less than 6 years
+2486:     18 to 64 years
+2487:     65 years and over
+2488:   Prevalence of low income in 2010 based on after-tax low-income measure %
+2489:     Less than 18 years %
+2490:       Less than 6 years %
+2491:     18 to 64 years %
+2492:     65 years and over %
+2493: Total number of occupied private dwellings by condition of dwelling
+2494:   Only regular maintenance or minor repairs needed
+2495:   Major repairs needed
+2496: Total number of occupied private dwellings by period of construction
+2497:   1960 or before
+2498:   1961 to 1980
+2499:   1981 to 1990
+2500:   1991 to 2000
+2501:   2001 to 2005
+2502:   2006 to 2011
+2503: Total number of occupied private dwellings by number of rooms
+2504:   1 to 4 rooms
+2505:   5 rooms
+2506:   6 rooms
+2507:   7 rooms
+2508:   8 or more rooms
+2509: Average number of rooms per dwelling     
+2510: Total number of occupied private dwellings by number of bedrooms
+2511:   0 to 1 bedroom
+2512:   2 bedrooms
+2513:   3 bedrooms
+2514:   4 or more bedrooms
+2515: Total number of private households by tenure
+2516:   Owner
+2517:   Renter
+2518:   Band housing
+2519: Total number of private households by condominium status
+2520:   Part of a condominium development
+2521:   Not part of a condominium development
+2522: Total number of private households by number of household maintainers
+2523:   1 household maintainer
+2524:   2 household maintainers
+2525:   3 or more household maintainers
+2526: Total number of private households by age group of primary household maintainers
+2527:   Under 25 years
+2528:   25 to 34 years
+2529:   35 to 44 years
+2530:   45 to 54 years
+2531:   55 to 64 years
+2532:   65 to 74 years
+2533:   75 years and over
+2534: Total number of private households by number of persons per room
+2535:   One person or fewer per room
+2536:   More than one person per room
+2537: Total number of private households by housing suitability
+2538:   Suitable
+2539:   Not suitable
+2540: Total number of owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio
+2541:   Spending less than 30% of household total income on shelter costs
+2542:   Spending 30% or more of household total income on shelter costs
+2543:     Spending 30% to less than 100% of household total income on shelter costs
+2544: Number of owner households in non-farm, non-reserve private dwellings
+2545:   % of owner households with a mortgage
+2546:   % of owner households spending 30% or more of household total income on shelter costs
+2547:   Median monthly shelter costs for owned dwellings ($)
+2548:   Average monthly shelter costs for owned dwellings ($)
+2549:   Median value of dwellings ($)
+2550:   Average value of dwellings ($)
+2551: Number of tenant households in non-farm, non-reserve private dwellings
+2552:   % of tenant households in subsidized housing
+2553:   % of tenant households spending 30% or more of household total income on shelter costs
+2554:   Median monthly shelter costs for rented dwellings ($)
+2555:   Average monthly shelter costs for rented dwellings ($)
+2556: Household total income in 2010 of private households
+2557:   Under $5,000
+2558:   $5,000 to $9,999
+2559:   $10,000 to $14,999
+2560:   $15,000 to $19,999
+2561:   $20,000 to $29,999
+2562:   $30,000 to $39,999
+2563:   $40,000 to $49,999
+2564:   $50,000 to $59,999
+2565:   $60,000 to $79,999
+2566:   $80,000 to $99,999
+2567:   $100,000 to $124,999
+2568:   $125,000 to $149,999
+2569:   $150,000 and over
+2570: After-tax income of households in 2010 of private households
+2571:   Under $5,000
+2572:   $5,000 to $9,999
+2573:   $10,000 to $14,999
+2574:   $15,000 to $19,999
+2575:   $20,000 to $29,999
+2576:   $30,000 to $39,999
+2577:   $40,000 to $49,999
+2578:   $50,000 to $59,999
+2579:   $60,000 to $79,999
+2580:   $80,000 to $99,999
+2581:   $100,000 and over
+2582:     $100,000 to $124,999
+2583:     $125,000 and over
+2584: Household income in 2010 of private households
+2585:   Median household total income $
+2586:   Average household total income $
+2587:   Median after-tax household income $
+2588:   Average after-tax household income $
+2589:   One-person private households
+2590:     Median household total income $
+2591:     Average household total income $
+2592:     Median after-tax household income $
+2593:     Average after-tax household income $
+2594:   Two-or-more-persons private households
+2595:     Median household total income $
+2596:     Average household total income $
+2597:     Median after-tax household income $
+2598:     Average after-tax household income $
+2599: Family income in 2010 of economic families
+2600:   Median family income $
+2601:   Average family income $
+2602:   Median after-tax family income $
+2603:   Average after-tax family income $
+2604:   Average family size
+2605:   Couple-only economic families
+2606:     Median family income $
+2607:     Average family income $
+2608:     Median after-tax family income $
+2609:     Average after-tax family income $
+2610:     Average family size
+2611:   Couple-with-children economic families
+2612:     Median family income $
+2613:     Average family income $
+2614:     Median after-tax family income $
+2615:     Average after-tax family income $
+2616:     Average family size
+2617:   Lone-parent economic families
+2618:     Median family income $
+2619:     Average family income $
+2620:     Median after-tax family income $
+2621:     Average after-tax family income $
+2622:     Average family size
