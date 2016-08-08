@@ -15,7 +15,7 @@ Last updated August 11, 2014.
 
 ## Notes
 
-Includes total population by income status
+File 1: Total population by income status
 
 * Low-income person:
     - below LIM-BT
@@ -23,3 +23,9 @@ Includes total population by income status
     - below LICO-BT
     - below LICO-AT
     - below MBM
+
+File 2: Total population by activity limitation status
+
+* Not stated
+* No difficulty with daily activities and no limitation in activities
+* Difficulty with daily activities and/or with activity limitations
