@@ -11,28 +11,6 @@ def recode_headings(csv_in, csv_out):
         line = line.decode("utf-8", "ignore").encode("utf-8")
       recoded.write(line)
 
-"""
-data = {
-    "immigration": (
-      (1, "index"),
-      (18, "total"),
-      (19, "non-immigrants"),
-      (20, "immigrants"),
-      (21, "immigrants-before-1971"),
-      (22, "immigrants-1971-1980"),
-      (23, "immigrants-1981-1990"),
-      (24, "immigrants-1991-2000"),
-      (25, "immigrants-2001-2011")
-    )
-}
-
-nhs = "nhs-planning-districts-indexed.csv"
-
-for item in data.items():
-    cut = tools.cut_csv(nhs, item)
-    renamed = tools.rename_csv(cut, item)
-"""
-
 def cut_csv(csv, item):
     key, name_index = item
     tmp = "{}-tmp.csv".format(key)
